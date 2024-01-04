@@ -343,7 +343,7 @@
     },
     "Body": {
       "bodyText": [
-        "Hi, I am <strong>Yogesh Sharma</strong> a code enthusiast. I am a <strong>Full-Stack development</strong> with <strong>6+</strong> year's of experience in developing web and windows applications using  C#, ASP.NET, MVC, t-SQL, React-JS, Typescript, JavaScript and Node-JS. I am passionate about learning new technologies and enhancing my skills in the IT domain."
+        "Hi, I am <strong>Yogesh Sharma </strong> a code enthusiast. I am a <strong>Full-Stack developer</strong> with <strong>6+</strong> year's of experience in developing web and windows applications using  C#, ASP.NET, MVC, t-SQL, React-JS, Typescript, JavaScript and Node-JS. I am passionate about learning new technologies and enhancing my skills in the IT domain."
       ],
       "pauseTime": 9000000,
       "deleteSpeed": 2,
@@ -974,13 +974,6 @@
             "className": "",
             "logoSrc": null,
             "logoUrl": "https://www.linkedin.com/in/yogesh-sharma-96a981b5/?originalSubdomain=in"
-          },
-          {
-            "name": "Naukri",
-            "color": "#4267B2",
-            "className": "",
-            "logoSrc": "/assets/SkillsSVG/c-sharp.svg",
-            "logoUrl": null
           },
           {
             "name": "Instagram",
