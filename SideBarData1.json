@@ -1,12 +1,5 @@
 {
-  "components": [
-    "MenuItems_1",
-    "DdItem_1",
-    "DdItem_2",
-    "DdItem_3",
-    "DdItem_4",
-    "MenuItems_2"
-  ],
+  "components": [],
   "ItemDetails": {
     "MenuItems_1": [
       {
