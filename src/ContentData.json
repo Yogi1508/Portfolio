@@ -1,0 +1,620 @@
+{
+  "BodyContent": ["Experiences", "Projects"],
+  "Home": {
+    "Profile": {
+      "name": "Yogesh Sharma",
+      "userImage": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIQAAACECAMAAABmmnOVAAAAbFBMVEX///8rLzKcnZ0YHiIAAAAoLC8lKi35+fny8vIbICTJycrg4ODs7Oz09fVBQ0XCwsKQkZBzdXYhJCfU1dW7vLy0tbVmZ2kLExhQUlMdHiAUGh+pqaoAAAoACxF8fH40NzqHiYtIS00MDRFdX2CM93g1AAADkUlEQVR4nO2a2ZaiMBBADSHsW4IQQWlc/v8fB7Sdbh3EVKjQc2ZyH/qlX+4JtSRVbjYWi8VisVgsP0lQbveOs9+WwQ8JxBUP3YNsKW1l54a8StY28CNO2pCR37CwJTzy13SIdlJ8M/j0EHIXraYQ1673bHDDc+t4HYeqEdMKI0JUKyj4R/nHh3j4KPJoPDL8y3lOYUTWhi3SXfjOgZBwl5p08Hn73oGQlps8i0KqOBDSFeYcKkWH4SyM5UjazObFd1hoKiyOjaoDIfRoxiF21R0Icc2UTq6QnV8IbsIhZsoRMcKYiaMolErEF62JNO1BBzEcRY/vUAIPYjgK/O+xp1AJukeX4DOXiGnEB7rE7sVl6jXeDtvBV24bX0jsXpqCyuUNF7t/JDoS2OkBaxz/soTW58B+GPo6EtjZ4UNbx9g80K+7NbxY1dgOmwJ0pRkJ8Xt5Du+iObpEAJZoDIxvauD3EPghMXwP4IWCbg1IpCdQfrCTkedPdYBIHMw8BEFH4Zk5iM0mApRu19gIjSvHZmPk/XUlOCnedsXJ4Ii3VHsKMlaacxjDQsGCmQuIT4v2bYp4rfG5btS/iQvRrzBbjrPZVtZk6wyWC/nyMIQ0OLd7JK7PkxpCrjVfvxJdBH2KUI+Ky3qbhhuxk7nnRnhXRNi5mWO0OLwi2Rb8shu48GK7+vLpG34aBOmqW6e/iXzm45f4V+wJkn02pEE+GQJJPiRNtjcdHqnTd0Nqel32sX3q1sH2I7v+T/aF0aXLnt0XYEx0h4w7VR6VZZRXDs8O5/uWkkkPf3B3p8zah0buCUppODD8FQ+li9HMUNFwQsAU0WscA4mb1sD5nazRI6Nk4Fe5wL7k5Qw8nhgtUItG3mg4jIGBaJGrXG+nQLzyRlTTYbBokCziXutb3PB6lLuW/+56PY9AWQBxwDZ0CoxnadUtcyCkWzypSOBD1GdYv7S3Q8dlU4QLR2gReHA4BV2Wp/DN1xTLtmG5xmx/iiWF07+gHMRwFBf9ywVORIwsGFnAfqwwR6hdsRKyuEbcYUS3VlTg9fhrqG7ZrBd1rke0Z/5I+XnD1XOATJHfc9DLD/jWaw7NjRh8/zeH3m4wyNASdIRlOuPuBK1c3mh1KkW5+Er1SKfzHsuxJXQeQuq/e1TjrFMzHeyYcDQkoD9zeyuhUygKxPY1Qq2ElcCQOB4oKu5RQyJ3kFll6m2xWCwWi+U/5RcUszZx+OmseAAAAABJRU5ErkJggg=="
+    },
+    "SocialLink": {
+      "text": "@YogiTech007",
+      "link": "https://www.linkedin.com/in/yogesh-sharma-96a981b5/?originalSubdomain=in"
+    },
+    "SkillsAnimationList": [
+      {
+        "order": 1,
+        "altName": "c#",
+        "src": "/assets/SkillsSVG/c-sharp.svg"
+      },
+      {
+        "order": 2,
+        "altName": "ASP.NET",
+        "src": "/assets/SkillsSVG/ASPNET.svg"
+      },
+      {
+        "order": 3,
+        "altName": "React JS",
+        "src": "/assets/SkillsSVG/react-js.svg"
+      },
+      {
+        "order": 4,
+        "altName": "Node JS",
+        "src": "/assets/SkillsSVG/nodejs.svg"
+      },
+      {
+        "order": 5,
+        "altName": "Tailwind CSS",
+        "src": "/assets/SkillsSVG/tailwindCSS.svg"
+      },
+      {
+        "order": 6,
+        "altName": "BootStrap",
+        "src": "/assets/SkillsSVG/bootstrap.svg"
+      },
+      {
+        "order": 7,
+        "altName": "HTML",
+        "src": "/assets/SkillsSVG/html-5.svg"
+      },
+      {
+        "order": 8,
+        "altName": "CSS",
+        "src": "/assets/SkillsSVG/css.svg"
+      },
+      {
+        "order": 9,
+        "altName": "Javascript",
+        "src": "/assets/SkillsSVG/javascript.svg"
+      },
+      {
+        "order": 10,
+        "altName": "SQL Server",
+        "src": "/assets/SkillsSVG/sql-server.svg"
+      },
+      {
+        "order": 11,
+        "altName": "GitHub",
+        "src": "/assets/SkillsSVG/github.svg"
+      },
+      {
+        "order": 12,
+        "altName": "jQuery",
+        "src": "/assets/SkillsSVG/jQuery1.svg"
+      }
+    ]
+  },
+  "About": {
+    "Header": {
+      "headerText": [
+        "Full-Stack Developer @ <strong><a href='https://www.htcinc.com/' target='_blank'>HTC Global Services</a></strong>"
+      ],
+      "pauseTime": 95000,
+      "deleteSpeed": 10,
+      "loop": true
+    },
+    "Body": {
+      "bodyText": [
+        "Hi, I am <strong>Yogesh Sharma</strong> a code enthusiast. I am having <strong>6+</strong> year's of experience in <strong>Full-Stack development</strong> using technologies such as [ASP.NET, C#, t-SQL, React-JS and Node-JS.]"
+      ],
+      "pauseTime": 90000,
+      "deleteSpeed": 2,
+      "loop": true
+    }
+  },
+  "Experiences": [
+    {
+      "isActive": true,
+      "order": 3,
+      "associationId": 1,
+      "companyName": "Conduent Business Services - XEROX",
+      "teamName": {
+        "fullName": "Transportation Solutions Group",
+        "abbreviatedName": "TSG"
+      },
+      "companyUrl": "https://www.conduent.com/",
+      "companyLogo": "/assets/Logo/CBS.svg",
+      "designation": "App Dev & Support Engineer 1",
+      "startDate": "Sep-2017",
+      "endDate": "Apr-2021",
+      "workLocation": "Bangalore - India",
+      "workMode": "Full-Time",
+      "locationType": "On-Site",
+      "domain": "Transportation",
+      "jobProfile": "Worked as a Full Stack Developer on Web Application Development and Windows applications [Windows service, console application] using Microsoft technologies.",
+      "rr": [
+        "data 1dcsdc df sdv sd vsd v sd vsdvs dvs dv sd vs dv sdv fvbv fv afv dfv xzv fv fv f vdfv df vdfv df",
+        "data 2",
+        "data 3",
+        "data 4",
+        "data 5",
+        "data 6",
+        "data 7",
+        "data 8",
+        "data 9",
+        "data 10",
+        "data 11",
+        "data 12"
+      ],
+      "skillsUsed": [
+        "JavaScript",
+        "jQuery",
+        "t-sql",
+        "C#",
+        "ASP.NET MVC",
+        "Entity Framework",
+        "Classic Asp",
+        "SQL Server",
+        "ASP.NET"
+      ]
+    },
+    {
+      "isActive": true,
+      "order": 2,
+      "associationId": 2,
+      "companyName": "HEWLETT PACKARD ENTERPRISE",
+      "teamName": {
+        "fullName": "PointNext Supply-Chain Solutions Service Centre",
+        "abbreviatedName": "PTSSC"
+      },
+      "companyUrl": "https://www.hpe.com/us/en/home.html",
+      "companyLogo": "/assets/Logo/HPE.svg",
+      "designation": "IT Developer/Engineer 2",
+      "startDate": "Apr-2021",
+      "endDate": "Aug-2022",
+      "workLocation": "Bangalore - India",
+      "workMode": "Full-Time",
+      "locationType": "Hybrid",
+      "domain": "Supply Chain Services",
+      "jobProfile": "Worked as a Full Stack Developer on Web Application Development and Windows applications [Windows service, console application] using Microsoft technologies.",
+      "rr": [
+        "data 1",
+        "data 2",
+        "data 3",
+        "data 4",
+        "data 5",
+        "data 6",
+        "data 7",
+        "data 8",
+        "data 9",
+        "data 10",
+        "data 11",
+        "data 12"
+      ],
+      "skillsUsed": [
+        "JavaScript",
+        "jQuery",
+        "t-sql",
+        "C#",
+        "ASP.NET MVC",
+        "Entity Framework",
+        "Classic Asp",
+        "SQL Server",
+        "ASP.NET"
+      ]
+    },
+    {
+      "isActive": true,
+      "order": 1,
+      "associationId": 3,
+      "companyName": "HTC Global Servics",
+      "teamName": {
+        "fullName": "Integrated Shopfloor Solutions",
+        "abbreviatedName": "ISS"
+      },
+      "companyUrl": "https://www.htcinc.com/",
+      "companyLogo": "/assets/Logo/HTC.svg",
+      "designation": "Senior Engineer",
+      "startDate": "Aug-2022",
+      "endDate": "Present",
+      "workLocation": "Bangalore - India",
+      "workMode": "Full-Time",
+      "locationType": "Client [Broadcom]",
+      "domain": "Semiconductor Menifecturing",
+      "jobProfile": "Worked as a Full Stack Developer on Web Application Development and Windows applications [Windows service, console application] using Microsoft technologies.",
+      "rr": [
+        "data 1",
+        "data 2",
+        "data 3",
+        "data 4",
+        "data 5",
+        "data 6",
+        "data 7",
+        "data 8",
+        "data 9",
+        "data 10",
+        "data 11",
+        "data 12"
+      ],
+      "skillsUsed": [
+        "JavaScript",
+        "jQuery",
+        "t-sql",
+        "C#",
+        "ASP.NET MVC",
+        "Entity Framework",
+        "Classic Asp",
+        "SQL Server",
+        "ASP.NET"
+      ]
+    }
+  ],
+  "Educations": [
+    {
+      "isActive": true,
+      "order": 4,
+      "associationId": 4,
+      "instituteName": "Centre for Development of Advanced Computing (C-DAC)",
+      "instituteAddress": "CDAC Knowledge ParkSadanandanagar, Bennigana Halli, Bengaluru, Karnataka 560038",
+      "course": "Post Graduate Diploma in Advanced Computing (PG-DAC)",
+      "instituteUrl": "https://www.cdac.in/index.aspx?id=BL",
+      "instituteLogo": "/assets/Logo/CBS.svg",
+      "startDate": "Sep-2017",
+      "endDate": "Apr-2021",
+      "grades": "71",
+      "projects": null
+    },
+    {
+      "isActive": true,
+      "order": 3,
+      "associationId": 3,
+      "instituteName": "Radharaman Institute of Technology & Science (RITS)",
+      "instituteAddress": "Bhadbhada Road, Ratibad, Madhya Pradesh 462046",
+      "course": "B.E. / B.Tech.",
+      "instituteUrl": null,
+      "instituteLogo": "/assets/Logo/CBS.svg",
+      "startDate": "Sep-2017",
+      "endDate": "Apr-2021",
+      "grades": "75",
+      "projects": null
+    },
+    {
+      "isActive": true,
+      "order": 2,
+      "associationId": 2,
+      "instituteName": "Sarvodaya Higher Secondary School",
+      "instituteAddress": "Ganesh Colony Barely, 464668",
+      "course": "12th",
+      "instituteUrl": null,
+      "instituteLogo": "/assets/Logo/CBS.svg",
+      "startDate": "Sep-2017",
+      "endDate": "Apr-2021",
+      "grades": "75",
+      "projects": null
+    },
+    {
+      "isActive": true,
+      "order": 1,
+      "associationId": 1,
+      "instituteName": "Sarvodaya Higher Secondary School",
+      "instituteAddress": "Ganesh Colony Barely, 464668",
+      "couse": "Post Graduate Diploma in Advanced Computing (PG-DAC)",
+      "instituteUrl": null,
+      "instituteLogo": "/assets/Logo/CBS.svg",
+      "startDate": "Sep-2017",
+      "endDate": "Apr-2021",
+      "grades": "77",
+      "projects": null
+    }
+  ],
+  "Projects": [
+    {
+      "isActive": true,
+      "order": 1,
+      "name": "Project 1",
+      "startDate": "Jan-2023",
+      "endDate": "Mar-2023",
+      "description": "This is test project 1 description. sdfsdsdc sdcsdc sdcsd csdc sdc sd dscscsdc sdcs dcs dcsd csdc ",
+      "skillsUsed": [
+        "Skill 1",
+        "Skill 2",
+        "Skill 3",
+        "Skill 4",
+        "Skill 5",
+        "Skill 6"
+      ],
+      "associationId": 1,
+      "status": "Finished",
+      "url": "",
+      "myRole": "",
+      "roleDescription": "",
+      "isInternal": true
+    },
+    {
+      "isActive": true,
+      "order": 2,
+      "name": "Project 2",
+      "startDate": "Jan-2023",
+      "endDate": "Mar-2023",
+      "description": "This is test project 2 description.",
+      "skillsUsed": [
+        "Skill 1",
+        "Skill 2",
+        "Skill 3",
+        "Skill 4",
+        "Skill 5",
+        "Skill 6"
+      ],
+      "associationId": 1,
+      "status": "Finished",
+      "url": "",
+      "myRole": "",
+      "roleDescription": "",
+      "isInternal": true
+    },
+    {
+      "isActive": true,
+      "order": 3,
+      "name": "Project 3",
+      "startDate": "Jan-2023",
+      "endDate": "Mar-2023",
+      "description": "This is test project 3 description.",
+      "skillsUsed": [
+        "Skill 1",
+        "Skill 2",
+        "Skill 3",
+        "Skill 4",
+        "Skill 5",
+        "Skill 6"
+      ],
+      "associationId": 2,
+      "status": "Finished",
+      "url": "",
+      "myRole": "",
+      "roleDescription": "",
+      "isInternal": true
+    },
+    {
+      "isActive": true,
+      "order": 4,
+      "name": "Project 4",
+      "startDate": "Jan-2023",
+      "endDate": "Mar-2023",
+      "description": "This is test project 4 description.",
+      "skillsUsed": [
+        "Skill 1",
+        "Skill 2",
+        "Skill 3",
+        "Skill 4",
+        "Skill 5",
+        "Skill 6"
+      ],
+      "associationId": 2,
+      "status": "Finished",
+      "url": "",
+      "myRole": "",
+      "roleDescription": "",
+      "isInternal": true
+    },
+    {
+      "isActive": true,
+      "order": 5,
+      "name": "Project 5",
+      "startDate": "Jan-2023",
+      "endDate": "Mar-2023",
+      "description": "This is test project 5 description.",
+      "skillsUsed": [
+        "Skill 1",
+        "Skill 2",
+        "Skill 3",
+        "Skill 4",
+        "Skill 5",
+        "Skill 6"
+      ],
+      "associationId": 3,
+      "status": "Finished",
+      "url": "",
+      "myRole": "",
+      "roleDescription": "",
+      "isInternal": true
+    },
+    {
+      "isActive": true,
+      "order": 6,
+      "name": "Project 6",
+      "startDate": "Jan-2023",
+      "endDate": "Mar-2023",
+      "description": "This is test project 6 description.",
+      "skillsUsed": [
+        "Skill 1",
+        "Skill 2",
+        "Skill 3",
+        "Skill 4",
+        "Skill 5",
+        "Skill 6"
+      ],
+      "associationId": 3,
+      "status": "Finished",
+      "url": "",
+      "myRole": "",
+      "roleDescription": "",
+      "isInternal": true
+    },
+    {
+      "isActive": true,
+      "order": 7,
+      "name": "Project 7",
+      "startDate": "Jan-2023",
+      "endDate": "Mar-2023",
+      "description": "This is test project 7 description.",
+      "skillsUsed": [
+        "Skill 1",
+        "Skill 2",
+        "Skill 3",
+        "Skill 4",
+        "Skill 5",
+        "Skill 6"
+      ],
+      "associationId": 3,
+      "status": "Finished",
+      "url": "",
+      "myRole": "",
+      "roleDescription": "",
+      "isInternal": true
+    },
+    {
+      "isActive": true,
+      "order": 8,
+      "name": "Project 8",
+      "startDate": "Jan-2023",
+      "endDate": "Mar-2023",
+      "description": "This is test project 8 description.",
+      "skillsUsed": [
+        "Skill 1",
+        "Skill 2",
+        "Skill 3",
+        "Skill 4",
+        "Skill 5",
+        "Skill 6"
+      ],
+      "associationId": null,
+      "status": "Finished",
+      "url": "",
+      "myRole": "",
+      "roleDescription": "",
+      "isInternal": true
+    },
+    {
+      "isActive": true,
+      "order": 9,
+      "name": "Project 9",
+      "startDate": "Jan-2023",
+      "endDate": "Mar-2023",
+      "description": "This is test project 9 description.",
+      "skillsUsed": [
+        "Skill 1",
+        "Skill 2",
+        "Skill 3",
+        "Skill 4",
+        "Skill 5",
+        "Skill 6"
+      ],
+      "associationId": null,
+      "status": "Finished",
+      "url": "",
+      "myRole": "",
+      "roleDescription": "",
+      "isInternal": true
+    },
+    {
+      "isActive": true,
+      "order": 9,
+      "name": "Project 9",
+      "startDate": "Jan-2023",
+      "endDate": "Mar-2023",
+      "description": "This is test project 9 description.",
+      "skillsUsed": [
+        "Skill 1",
+        "Skill 2",
+        "Skill 3",
+        "Skill 4",
+        "Skill 5",
+        "Skill 6"
+      ],
+      "associationId": null,
+      "status": "Finished",
+      "url": "",
+      "myRole": "",
+      "roleDescription": "",
+      "isInternal": true
+    },
+    {
+      "isActive": true,
+      "order": 10,
+      "name": "Project 10",
+      "startDate": "Jan-2023",
+      "endDate": "Mar-2023",
+      "description": "This is test project 10 description. This is test project 10 description. This is test project 10 description. This is test project 10 description. This is test project 10 description. This is test project 10 description.",
+      "skillsUsed": [
+        "Skill 1",
+        "Skill 2",
+        "Skill 3",
+        "Skill 4",
+        "Skill 5",
+        "Skill 6"
+      ],
+      "associationId": 3,
+      "status": "Finished",
+      "url": "",
+      "myRole": "",
+      "roleDescription": "",
+      "isInternal": true
+    },
+    {
+      "isActive": true,
+      "order": 11,
+      "name": "Project 11",
+      "startDate": "Jan-2023",
+      "endDate": "Mar-2023",
+      "description": "This is test project 11 description.",
+      "skillsUsed": [
+        "Skill 1",
+        "Skill 2",
+        "Skill 3",
+        "Skill 4",
+        "Skill 5",
+        "Skill 6"
+      ],
+      "associationId": null,
+      "status": "Finished",
+      "url": "",
+      "myRole": "",
+      "roleDescription": "",
+      "isInternal": true
+    },
+    {
+      "isActive": true,
+      "order": 12,
+      "name": "Project 12",
+      "startDate": "Jan-2023",
+      "endDate": "Mar-2023",
+      "description": "This is test project 12 description.",
+      "skillsUsed": [
+        "Skill 1",
+        "Skill 2",
+        "Skill 3",
+        "Skill 4",
+        "Skill 5",
+        "Skill 6"
+      ],
+      "associationId": 3,
+      "status": "Finished",
+      "url": "",
+      "myRole": "",
+      "roleDescription": "",
+      "isInternal": true
+    },
+    {
+      "isActive": true,
+      "order": 13,
+      "name": "Project 13",
+      "startDate": "Jan-2023",
+      "endDate": "Mar-2023",
+      "description": "This is test project 13 description.",
+      "skillsUsed": [
+        "Skill 1",
+        "Skill 2",
+        "Skill 3",
+        "Skill 4",
+        "Skill 5",
+        "Skill 6"
+      ],
+      "associationId": 3,
+      "status": "Finished",
+      "url": "",
+      "myRole": "",
+      "roleDescription": "",
+      "isInternal": true
+    },
+    {
+      "isActive": true,
+      "order": 14,
+      "name": "Project 14",
+      "startDate": "Jan-2023",
+      "endDate": "Mar-2023",
+      "description": "This is test project 14 description.",
+      "skillsUsed": [
+        "Skill 1",
+        "Skill 2",
+        "Skill 3",
+        "Skill 4",
+        "Skill 5",
+        "Skill 6"
+      ],
+      "associationId": 3,
+      "status": "Finished",
+      "url": "",
+      "myRole": "",
+      "roleDescription": "",
+      "isInternal": true
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+@media (min-width: 750px) {
+  .project_container {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 67rem;
+  }
+}
+.project_container__carousel {
+  position: relative;
+  background-color: var(--background-code);
+}
+@media (max-width: 749px) {
+  .project_container__carousel {
+    border-top: 0.1rem solid var(--detail-low-contrast);
+    border-bottom: 0.1rem solid var(--detail-low-contrast);
+  }
+}
+@media (min-width: 750px) {
+  .project_container__carousel {
+    border-radius: 0.4rem;
+    border: 0.1rem solid var(--detail-low-contrast);
+  }
+}
+.project_container__header {
+  font-size: 2rem;
+  font-weight: 700;
+  text-align: center;
+  padding: 4rem 2rem 2rem 2rem;
+}
+.project_container__footer {
+  display: flex;
+  justify-content: center;
+  padding: 2rem 2rem 4rem 2rem;
+}
+.project_container__footer__link {
+  display: flex;
+  align-items: center;
+  background-color: transparent;
+  text-decoration: none;
+  text-align: center;
+  font-weight: 700;
+  color: var(--text-low-contrast);
+  font-size: 1.4rem;
+}
+.project_container__footer__link__svg {
+  display: block;
+  width: 2rem;
+  height: 2rem;
+  margin-right: 1rem;
+  fill: currentColor;
+}
+
+.embla {
+  --slide-spacing: 1rem;
+  --slide-size: 100%;
+  --slide-height: 19rem;
+  padding: 1.6rem;
+}
+.embla__viewport {
+  overflow: hidden;
+}
+.embla__container {
+  backface-visibility: hidden;
+  display: flex;
+  touch-action: pan-y;
+  margin-left: calc(var(--slide-spacing) * -1);
+}
+.embla__slide {
+  flex: 0 0 var(--slide-size);
+  min-width: 0;
+  padding-left: var(--slide-spacing);
+  position: relative;
+}
+.embla__slide__img {
+  display: block;
+  height: var(--slide-height);
+  width: 100%;
+  object-fit: cover;
+}
+.embla__slide__number {
+  width: 4.6rem;
+  height: 4.6rem;
+  z-index: 1;
+  position: absolute;
+  top: 0.6rem;
+  right: 0.6rem;
+  border-radius: 50%;
+  background-color: rgba(var(--background-site-rgb-value), 0.85);
+  line-height: 4.6rem;
+  font-weight: 900;
+  text-align: center;
+  pointer-events: none;
+}
+.embla__slide__number > span {
+  color: var(--brand-primary);
+  background-image: linear-gradient(
+    45deg,
+    var(--brand-primary),
+    var(--brand-secondary)
+  );
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-size: 1.6rem;
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+
+.embla__dots {
+  z-index: 1;
+  bottom: 1.6rem;
+  position: absolute;
+  left: 0;
+  right: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.embla__dot {
+  width: 2.4rem;
+  height: 2.4rem;
+  display: flex;
+  align-items: center;
+  margin-right: 0.75rem;
+  margin-left: 0.75rem;
+}
+.embla__dot:after {
+  background: var(--background-site);
+  border-radius: 0.2rem;
+  width: 100%;
+  height: 0.3rem;
+  content: "";
+  background: rgba(var(--background-site));
+  -webkit-backdrop-filter: blur(5px);
+  backdrop-filter: blur(1px);
+  border: 1px solid var(--background-site);
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+.embla__dot--selected:after {
+  background: linear-gradient(
+    45deg,
+    var(--brand-primary),
+    var(--brand-secondary)
+  );
+}
+
+.embla__buttons {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 0.6rem;
+}
+
+.embla__button_Left {
+  display: flex;
+  align-items: start;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  left: 0.6rem;
+}
+
+.embla__button_Right {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  right: 0.6rem;
+}
+
+.embla__button {
+  z-index: 1;
+  color: var(--background-site);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+  width: 3rem;
+  height: 3rem;
+}
+
+.embla__button:disabled {
+  opacity: 0.3;
+}
+.embla__button__svg {
+  width: 65%;
+  height: 65%;
+}
+
+:root {
+  --background-site: rgb(90, 153, 235);
+  --background-site-rgb-value: 0, 0, 0;
+  --brand-primary: rgb(138, 180, 248);
+  --brand-primary-rgb-value: 138, 180, 248;
+  --brand-secondary: rgb(193, 168, 226);
+  --brand-secondary-rgb-value: 193, 168, 226;
+}
