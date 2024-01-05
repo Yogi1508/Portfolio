@@ -8,7 +8,7 @@ const initialProfileStateData = {
 
 const FetchSideBarData = async (id) => {
   try {
-    const apiUrl = `${process.env.PUBLIC_URL}/SideBarData${id}.json`;
+    const apiUrl = `${process.env.PUBLIC_URL}/SideBarData_${id}.json`;
 
     const response = await axios.get(apiUrl);
     return response.data;
@@ -19,7 +19,7 @@ const FetchSideBarData = async (id) => {
 
 const FetchContentData = async (id) => {
   try {
-    const apiUrl = `${process.env.PUBLIC_URL}/ContentData${id}.json`;
+    const apiUrl = `${process.env.PUBLIC_URL}/ContentData_${id}.json`;
 
     const response = await axios.get(apiUrl);
     return response.data;
@@ -32,8 +32,13 @@ const FetchContentData = async (id) => {
 export const loadUserProfile = createAsyncThunk(
   "profile/load",
   async (_, { dispatch }) => {
-    const sideBarData = await FetchSideBarData(1);
-    const contentData = await FetchContentData(1);
+    const queryParams = new URLSearchParams(window.location.search);
+    let paramValue = queryParams.get("id");
+
+    if (paramValue === null || paramValue === undefined) paramValue = 1;
+
+    const sideBarData = await FetchSideBarData(paramValue);
+    const contentData = await FetchContentData(paramValue);
 
     // console.log(sideBarData);
     // console.log(contentData);
