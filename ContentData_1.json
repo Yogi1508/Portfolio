@@ -1,0 +1,994 @@
+{
+  "BodyContent": [
+    "Home",
+    "About",
+    "Skills",
+    "Tools",
+    "Experiences",
+    "Projects",
+    "Educations",
+    "ContactMe",
+    "Resume"
+  ],
+  "Home": {
+    "Profile": {
+      "name": "Yogesh Sharma",
+      "userImage": "https://github.com/Yogi1508/Portfolio/blob/master/assets/ys/userProfile/ProfilePic.JPG?raw=true"
+    },
+    "SocialLink": {
+      "text": "@YogiTech007",
+      "link": "https://www.linkedin.com/in/yogesh-sharma-96a981b5/?originalSubdomain=in"
+    },
+    "AnimationList": [
+      {
+        "isActive": true,
+        "order": 1,
+        "isShowAnimation": true,
+        "altName": "c#",
+        "type": "Back-End",
+        "src": "https://raw.githubusercontent.com/Yogi1508/Portfolio/23669dc0d2608f3be917c22651b5e34e0ac72e4e/assets/ys/logoSvg/c-sharp.svg",
+        "Color": ""
+      },
+      {
+        "isActive": true,
+        "order": 2,
+        "isShowAnimation": true,
+        "altName": "ASP.NET",
+        "type": "Front-End",
+        "src": "https://raw.githubusercontent.com/Yogi1508/Portfolio/23669dc0d2608f3be917c22651b5e34e0ac72e4e/assets/ys/logoSvg/ASPNET.svg",
+        "Color": ""
+      },
+      {
+        "isActive": true,
+        "order": 3,
+        "isShowAnimation": true,
+        "altName": "React JS",
+        "type": "Front-End",
+        "src": "https://raw.githubusercontent.com/Yogi1508/Portfolio/23669dc0d2608f3be917c22651b5e34e0ac72e4e/assets/ys/logoSvg/react-js.svg",
+        "Color": ""
+      },
+      {
+        "isActive": true,
+        "order": 4,
+        "isShowAnimation": true,
+        "altName": "Node JS",
+        "type": "Back-End",
+        "src": "https://raw.githubusercontent.com/Yogi1508/Portfolio/23669dc0d2608f3be917c22651b5e34e0ac72e4e/assets/ys/logoSvg/nodejs.svg",
+        "Color": ""
+      },
+      {
+        "isActive": true,
+        "order": 5,
+        "isShowAnimation": true,
+        "altName": "Tailwind CSS",
+        "type": "Front-End",
+        "src": "https://raw.githubusercontent.com/Yogi1508/Portfolio/23669dc0d2608f3be917c22651b5e34e0ac72e4e/assets/ys/logoSvg/tailwindCSS.svg",
+        "Color": ""
+      },
+      {
+        "isActive": true,
+        "order": 6,
+        "isShowAnimation": true,
+        "altName": "BootStrap",
+        "type": "Front-End",
+        "src": "https://raw.githubusercontent.com/Yogi1508/Portfolio/23669dc0d2608f3be917c22651b5e34e0ac72e4e/assets/ys/logoSvg/bootstrap.svg",
+        "Color": ""
+      },
+      {
+        "isActive": true,
+        "order": 7,
+        "isShowAnimation": true,
+        "altName": "HTML",
+        "type": "",
+        "src": "https://raw.githubusercontent.com/Yogi1508/Portfolio/23669dc0d2608f3be917c22651b5e34e0ac72e4e/assets/ys/logoSvg/html-5.svg",
+        "Color": ""
+      },
+      {
+        "isActive": true,
+        "order": 8,
+        "isShowAnimation": true,
+        "altName": "CSS",
+        "type": "Front-End",
+        "src": "https://raw.githubusercontent.com/Yogi1508/Portfolio/23669dc0d2608f3be917c22651b5e34e0ac72e4e/assets/ys/logoSvg/css.svg",
+        "Color": ""
+      },
+      {
+        "isActive": true,
+        "order": 9,
+        "isShowAnimation": true,
+        "altName": "Javascript",
+        "type": "Front-End",
+        "src": "https://raw.githubusercontent.com/Yogi1508/Portfolio/23669dc0d2608f3be917c22651b5e34e0ac72e4e/assets/ys/logoSvg/javascript.svg",
+        "Color": ""
+      },
+      {
+        "isActive": true,
+        "order": 10,
+        "isShowAnimation": true,
+        "altName": "SQL Server",
+        "type": "Database",
+        "src": "https://raw.githubusercontent.com/Yogi1508/Portfolio/23669dc0d2608f3be917c22651b5e34e0ac72e4e/assets/ys/logoSvg/sql-server.svg",
+        "Color": ""
+      },
+      {
+        "isActive": true,
+        "order": 11,
+        "isShowAnimation": true,
+        "altName": "GitHub",
+        "type": "",
+        "src": "https://raw.githubusercontent.com/Yogi1508/Portfolio/23669dc0d2608f3be917c22651b5e34e0ac72e4e/assets/ys/logoSvg/github.svg",
+        "Color": ""
+      },
+      {
+        "isActive": true,
+        "order": 12,
+        "isShowAnimation": true,
+        "altName": "jQuery",
+        "type": "Front-End",
+        "src": "https://raw.githubusercontent.com/Yogi1508/Portfolio/23669dc0d2608f3be917c22651b5e34e0ac72e4e/assets/ys/logoSvg/jquery1.svg",
+        "Color": ""
+      },
+      {
+        "isActive": true,
+        "order": 13,
+        "isShowAnimation": true,
+        "altName": "Typescript",
+        "type": "Front-End",
+        "src": "https://raw.githubusercontent.com/Yogi1508/Portfolio/ac8f4278a1567f0e898f6f8e53caa943fbb5854a/assets/ys/logoSvg/Typescript.svg",
+        "Color": ""
+      }
+    ]
+  },
+  "Skills": [
+    {
+      "isActive": true,
+      "order": 1,
+      "isShowAnimation": true,
+      "altName": "c#",
+      "type": "Back-End",
+      "src": "https://raw.githubusercontent.com/Yogi1508/Portfolio/23669dc0d2608f3be917c22651b5e34e0ac72e4e/assets/ys/logoSvg/c-sharp.svg",
+      "Color": "#66a3ff"
+    },
+    {
+      "isActive": true,
+      "order": 2,
+      "isShowAnimation": true,
+      "altName": "ASP.NET",
+      "type": "Front-End",
+      "src": "https://raw.githubusercontent.com/Yogi1508/Portfolio/23669dc0d2608f3be917c22651b5e34e0ac72e4e/assets/ys/logoSvg/ASPNET.svg",
+      "Color": "#6666ff"
+    },
+    {
+      "isActive": true,
+      "order": 3,
+      "isShowAnimation": true,
+      "altName": "React JS",
+      "type": "Front-End",
+      "src": "https://raw.githubusercontent.com/Yogi1508/Portfolio/23669dc0d2608f3be917c22651b5e34e0ac72e4e/assets/ys/logoSvg/react-js.svg",
+      "Color": "#1affff"
+    },
+    {
+      "isActive": true,
+      "order": 4,
+      "isShowAnimation": true,
+      "altName": "Node JS",
+      "type": "Back-End",
+      "src": "https://raw.githubusercontent.com/Yogi1508/Portfolio/23669dc0d2608f3be917c22651b5e34e0ac72e4e/assets/ys/logoSvg/nodejs.svg",
+      "Color": "#47d147"
+    },
+    {
+      "isActive": true,
+      "order": 5,
+      "isShowAnimation": true,
+      "altName": "Tailwind CSS",
+      "type": "Front-End",
+      "src": "https://raw.githubusercontent.com/Yogi1508/Portfolio/23669dc0d2608f3be917c22651b5e34e0ac72e4e/assets/ys/logoSvg/tailwindCSS.svg",
+      "Color": "#4775d1"
+    },
+    {
+      "isActive": true,
+      "order": 6,
+      "isShowAnimation": true,
+      "altName": "BootStrap",
+      "type": "Front-End",
+      "src": "https://raw.githubusercontent.com/Yogi1508/Portfolio/23669dc0d2608f3be917c22651b5e34e0ac72e4e/assets/ys/logoSvg/bootstrap.svg",
+      "Color": "#00ffff"
+    },
+    {
+      "isActive": true,
+      "order": 7,
+      "isShowAnimation": true,
+      "altName": "HTML",
+      "type": "Front-End",
+      "src": "https://raw.githubusercontent.com/Yogi1508/Portfolio/23669dc0d2608f3be917c22651b5e34e0ac72e4e/assets/ys/logoSvg/html-5.svg",
+      "Color": "#ffff1a"
+    },
+    {
+      "isActive": true,
+      "order": 8,
+      "isShowAnimation": true,
+      "altName": "CSS",
+      "type": "Front-End",
+      "src": "https://raw.githubusercontent.com/Yogi1508/Portfolio/23669dc0d2608f3be917c22651b5e34e0ac72e4e/assets/ys/logoSvg/css.svg",
+      "Color": "#ffcc00"
+    },
+    {
+      "isActive": true,
+      "order": 9,
+      "isShowAnimation": true,
+      "altName": "Javascript",
+      "type": "Front-End",
+      "src": "https://raw.githubusercontent.com/Yogi1508/Portfolio/23669dc0d2608f3be917c22651b5e34e0ac72e4e/assets/ys/logoSvg/javascript.svg",
+      "Color": "#ff4dd2"
+    },
+    {
+      "isActive": true,
+      "order": 10,
+      "isShowAnimation": true,
+      "altName": "SQL Server",
+      "type": "Database",
+      "src": "https://raw.githubusercontent.com/Yogi1508/Portfolio/23669dc0d2608f3be917c22651b5e34e0ac72e4e/assets/ys/logoSvg/sql-server.svg",
+      "Color": "#ffbf00"
+    },
+    {
+      "isActive": true,
+      "order": 11,
+      "isShowAnimation": true,
+      "altName": "jQuery",
+      "type": "Front-End",
+      "src": "https://raw.githubusercontent.com/Yogi1508/Portfolio/23669dc0d2608f3be917c22651b5e34e0ac72e4e/assets/ys/logoSvg/jquery1.svg",
+      "Color": "#b3ff1a"
+    },
+    {
+      "isActive": true,
+      "order": 12,
+      "isShowAnimation": true,
+      "altName": "Typescript",
+      "type": "Front-End",
+      "src": "https://raw.githubusercontent.com/Yogi1508/Portfolio/ac8f4278a1567f0e898f6f8e53caa943fbb5854a/assets/ys/logoSvg/Typescript.svg",
+      "Color": "#b3ff1a"
+    }
+  ],
+  "Tools": [
+    {
+      "isActive": true,
+      "order": 1,
+      "isShowAnimation": true,
+      "altName": "GitHub",
+      "type": "Others",
+      "src": "https://raw.githubusercontent.com/Yogi1508/Portfolio/23669dc0d2608f3be917c22651b5e34e0ac72e4e/assets/ys/logoSvg/jquery1.svg",
+      "Color": "#1affc6"
+    },
+    {
+      "isActive": true,
+      "order": 2,
+      "isShowAnimation": true,
+      "altName": "Visual Studio 2019",
+      "type": "Development",
+      "src": "https://raw.githubusercontent.com/Yogi1508/Portfolio/bfd0e514cd451ce04dcddd268869d6658396e2f5/assets/ys/logoSvg/vs2019.svg",
+      "Color": "#47d147"
+    },
+    {
+      "isActive": true,
+      "order": 2,
+      "isShowAnimation": true,
+      "altName": "Visual Studio 2017",
+      "type": "Development",
+      "src": "https://raw.githubusercontent.com/Yogi1508/Portfolio/bfd0e514cd451ce04dcddd268869d6658396e2f5/assets/ys/logoSvg/vs2017.svg",
+      "Color": "#4080bf"
+    },
+    {
+      "isActive": true,
+      "order": 2,
+      "isShowAnimation": true,
+      "altName": "Visual Studio Code",
+      "type": "Development",
+      "src": "https://raw.githubusercontent.com/Yogi1508/Portfolio/bfd0e514cd451ce04dcddd268869d6658396e2f5/assets/ys/logoSvg/vsCode.svg",
+      "Color": "#00ccff"
+    },
+    {
+      "isActive": true,
+      "order": 3,
+      "isShowAnimation": true,
+      "altName": "Postman",
+      "type": "Others",
+      "src": "https://raw.githubusercontent.com/Yogi1508/Portfolio/bfd0e514cd451ce04dcddd268869d6658396e2f5/assets/ys/logoSvg/Postman.svg",
+      "Color": "#00ffff"
+    },
+    {
+      "isActive": true,
+      "order": 4,
+      "isShowAnimation": false,
+      "altName": "SSMS",
+      "type": "Database",
+      "src": "https://raw.githubusercontent.com/Yogi1508/Portfolio/bfd0e514cd451ce04dcddd268869d6658396e2f5/assets/ys/logoSvg/ssms.svg",
+      "Color": "#ff8080"
+    },
+    {
+      "isActive": true,
+      "order": 4,
+      "isShowAnimation": false,
+      "altName": "PG-Admin",
+      "type": "Database",
+      "src": "https://raw.githubusercontent.com/Yogi1508/Portfolio/bfd0e514cd451ce04dcddd268869d6658396e2f5/assets/ys/logoSvg/postgreSQL.svg",
+      "Color": "#cc66ff"
+    },
+    {
+      "isActive": true,
+      "order": 4,
+      "isShowAnimation": false,
+      "altName": "SQL Developer",
+      "type": "Database",
+      "src": "https://raw.githubusercontent.com/Yogi1508/Portfolio/bfd0e514cd451ce04dcddd268869d6658396e2f5/assets/ys/logoSvg/SqlDeveloper.svg",
+      "Color": "#1a75ff"
+    },
+    {
+      "isActive": true,
+      "order": 5,
+      "isShowAnimation": false,
+      "altName": "Crystal Report",
+      "type": "Others",
+      "src": "https://raw.githubusercontent.com/Yogi1508/Portfolio/bfd0e514cd451ce04dcddd268869d6658396e2f5/assets/ys/logoSvg/CrystalReports.svg",
+      "Color": "#47d147"
+    }
+  ],
+  "About": {
+    "Header": {
+      "headerText": [
+        "Full-Stack Developer @ <strong><a href='https://www.htcinc.com/' target='_blank'>HTC Global Services</a></strong>"
+      ],
+      "pauseTime": 9500000,
+      "deleteSpeed": 10,
+      "loop": false
+    },
+    "Body": {
+      "bodyText": [
+        "Hi, I am <strong>Yogesh Sharma </strong> a code enthusiast. I am a <strong>Full-Stack developer</strong> with <strong>6+</strong> year's of experience in developing web and windows applications using  C#, ASP.NET, MVC, t-SQL, React-JS, Typescript, JavaScript and Node-JS. I am passionate about learning new technologies and enhancing my skills in the IT domain."
+      ],
+      "pauseTime": 9000000,
+      "deleteSpeed": 2,
+      "loop": false
+    }
+  },
+  "Experiences": [
+    {
+      "isActive": true,
+      "order": 3,
+      "associationId": 1,
+      "companyName": "Conduent Business Services - XEROX",
+      "teamName": {
+        "fullName": "Transportation Solutions Group",
+        "abbreviatedName": "TSG"
+      },
+      "companyUrl": "https://www.conduent.com/",
+      "companyLogo": "https://raw.githubusercontent.com/Yogi1508/Portfolio/ac8f4278a1567f0e898f6f8e53caa943fbb5854a/assets/ys/logoSvg/CBS.svg",
+      "designation": " Application Development & Support Engineer 1 ",
+      "startDate": "Sep-2017",
+      "endDate": "Apr-2021",
+      "workLocation": "Bangalore - India",
+      "workMode": "Full-Time",
+      "locationType": "On-Site",
+      "domain": "Transportation",
+      "jobProfile": "Worked as a Full Stack Developer on Web and Windows applications such as [Windows service, console application] using Microsoft technologies like - Classic ASP, ASP.NET, c#, t-SQL, Crystal Reports, HTML, Javascript and jQuery.",
+      "rr": [
+        "Communicated with clients and gathered requirements for project.",
+        "Assigned tasks to team members and provided guidance and feedback on their work.",
+        "Troubleshot and resolved production issues related to payment and functionality.",
+        "Implemented new features for existing clients and configured new clients independently.",
+        "Generated dynamic notices and reports for clients using crystal report tool.",
+        "Developed and fixed payment logic for clients and handled other payment related issues.",
+        "Set up consolidated client data metrics for over 50 clients for Conduent R&D department to calculate project revenue.",
+        "Automated manual processes through windows and web applications.",
+        "Maintained database for clients, including server performance, SQL jobs and firewall issues.",
+        "Trained and mentored juniors for the given Project.",
+        "Tested the entire application manually."
+      ],
+      "skillsUsed": [
+        "JavaScript",
+        "jQuery",
+        "t-sql",
+        "C#",
+        "ASP.NET MVC",
+        "Entity Framework",
+        "Classic Asp",
+        "SQL Server",
+        "ASP.NET"
+      ]
+    },
+    {
+      "isActive": true,
+      "order": 2,
+      "associationId": 2,
+      "companyName": "HEWLETT PACKARD ENTERPRISE",
+      "teamName": {
+        "fullName": "PointNext Supply-Chain Solutions Service Centre",
+        "abbreviatedName": "PTSSC"
+      },
+      "companyUrl": "https://www.hpe.com/us/en/home.html",
+      "companyLogo": "https://raw.githubusercontent.com/Yogi1508/Portfolio/ac8f4278a1567f0e898f6f8e53caa943fbb5854a/assets/ys/logoSvg/HPE.svg",
+      "designation": "IT Developer/Engineer 2",
+      "startDate": "Apr-2021",
+      "endDate": "Aug-2022",
+      "workLocation": "Bangalore - India",
+      "workMode": "Full-Time",
+      "locationType": "Hybrid",
+      "domain": "Supply Chain Services",
+      "jobProfile": "Worked as a Full Stack Developer on Web and Windows applications [Windows service, console application] using Microsoft technologies [C#, ASP.NET, MVC/Entity Framework, Classic ASP, Javascript, jQuery, HTML And CSS].",
+      "rr": [
+        "Spearheaded communication with business stakeholders and gathered requirements for various IT projects.",
+        "Enhanced user experience and functionality of web applications using microsoft technologies.",
+        "Migrated data center applications to cloud platforms and ensured security and scalability.",
+        "Utilized GitHub for code deployment, version control, and collaboration.",
+        "Demonstrated leadership and mentoring skills by training and guiding juniors for the application."
+      ],
+      "skillsUsed": [
+        "JavaScript",
+        "jQuery",
+        "t-sql",
+        "C#",
+        "ASP.NET MVC",
+        "Entity Framework",
+        "Classic Asp",
+        "SQL Server",
+        "ASP.NET"
+      ]
+    },
+    {
+      "isActive": true,
+      "order": 1,
+      "associationId": 3,
+      "companyName": "HTC Global Services",
+      "teamName": {
+        "fullName": "Integrated Shopfloor Solutions",
+        "abbreviatedName": "ISS"
+      },
+      "companyUrl": "https://www.htcinc.com/",
+      "companyLogo": "https://raw.githubusercontent.com/Yogi1508/Portfolio/ac8f4278a1567f0e898f6f8e53caa943fbb5854a/assets/ys/logoSvg/HTC.svg",
+      "designation": "Senior Engineer",
+      "startDate": "Aug-2022",
+      "endDate": "Present",
+      "workLocation": "Bangalore - India",
+      "workMode": "Full-Time",
+      "locationType": "Client [Broadcom]",
+      "domain": "Semiconductor Menifecturing",
+      "jobProfile": "Working as a Full Stack Developer on Web and Windows applications using C#, ASP.NET, VB.NET, MVC/Entity Framework, Classic ASP, React JS, Node JS, Typescript, Javascript, jQuery, HTML and CSS {Bootstrap/Tailwind}.",
+      "rr": [
+        "Communicated with business stakeholders/Users and gathered requirements for various IT projects.",
+        "Designed and develop new products/application based on user requirement.",
+        "Implemented new features and enhancements for assigned projects as part of the development team.",
+        "Maintained database for clients, including server performance, SQL jobs and firewall issues."
+      ],
+      "skillsUsed": [
+        "JavaScript",
+        "jQuery",
+        "t-sql",
+        "C#",
+        "ASP.NET MVC",
+        "Entity Framework",
+        "Classic Asp",
+        "VB.NET",
+        "SQL Server",
+        "React JS",
+        "Node JS",
+        "TypeScript",
+        "ASP.NET"
+      ]
+    }
+  ],
+  "Educations": [
+    {
+      "isActive": true,
+      "order": 1,
+      "associationId": 11,
+      "instituteName": "Centre for Development of Advanced Computing (C-DAC)",
+      "instituteAddress": "C-DAC Knowledge Park Sadanandanagar, Bennigana Halli, Bengaluru, Karnataka 560038",
+      "course": "Post Graduate Diploma in Advanced Computing (PG-DAC)",
+      "instituteUrl": "https://www.cdac.in/index.aspx?id=BL",
+      "instituteLogo": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAk1BMVEX///v+//3///3//////vv6+vrd7/Pb6+v7//z+///7/P6HtMkARX9upcO/09zX5u3w9/2+2+kYc6Chxtn4/P2Bs8p3sMsyf6muz+Bam7umzNmKutG51+GZwtR9r8iWv9Njo78ygqcvhKkjdqBHkbRGkLemytqRu9OOv9AAVYsAXI+hxdMQbJ3o8/d/tc0AT4kIZJfySidNAAABiElEQVR4AY3TB4LqIBAGYJixQPKURGp6tYvP+59uYfcAmJ6fLxWGhIkSAgQhHAAgApCwbEIGIcIvAMQjJBBat4C73T4KJJvf1s03AMNKkPFNgCTL838HpDxmlAb1BeCUA2Mb3B3FdgusKMqTZECABk85Ud8AmnGOQpu8JAy1tq4qGMScMmSYBnRLWZapuml1p5SitOybtlAZzdTvlAZdPnRNkzcy77QY7TTNi13meZ7W83merUyDy3Bt+n64yfzWC1dLeRnvYyddPT0e+vIUacAz2l8utMxVPzDVLMvpdXeFOpxej8fJDkUalEPTS9ndOi/bTNzXtRukV+v9NrzftfnfpUHdX4X3o34Wdcl3r9crfGDvT7NqtWZ8qdIAL3npPXODN8NWlc65+n2/jfdeG+Pbj0kDKG7hkNfGvztyeVg7jsvnqIx9fT7dY/ZpQDnuhWC740YIVOXhsFaNQOBYah2SbRrEsmEsJLHQFBaFV7GI4goECaQB0Fg7gFFygpwDAqF/JRy3SfADpuhAn2E47acAAAAASUVORK5CYII=",
+      "startDate": "Feb-2017",
+      "endDate": "July-2017",
+      "grades": "71%",
+      "projects": null
+    },
+    {
+      "isActive": true,
+      "order": 2,
+      "associationId": 12,
+      "instituteName": "Radharaman Institute of Technology & Science (RITS)",
+      "instituteAddress": "Bhadbhada Road, Ratibad, Madhya Pradesh 462046",
+      "course": "B.E. / B.Tech.",
+      "instituteUrl": "https://www.rgibhopal.com/rits/",
+      "instituteLogo": "https://www.rgibhopal.com/rits/images/rgi_logo1.png",
+      "startDate": "June-2012",
+      "endDate": "May-2016",
+      "grades": "7.74",
+      "projects": null
+    },
+    {
+      "isActive": true,
+      "order": 3,
+      "associationId": 13,
+      "instituteName": "Sarvodaya Higher Secondary School",
+      "instituteAddress": "Ganesh Colony Barely, 464668",
+      "course": "12th",
+      "instituteUrl": null,
+      "instituteLogo": "https://static.wixstatic.com/media/7330e9_66de7138c0164bad853156a463897ad0~mv2.png/v1/fill/w_263,h_118,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/SPS%20Red%20Logo.png",
+      "startDate": "March-2011",
+      "endDate": "Feb-2012",
+      "grades": "75%",
+      "projects": null
+    },
+    {
+      "isActive": true,
+      "order": 4,
+      "associationId": 14,
+      "instituteName": "Sarvodaya Higher Secondary School",
+      "instituteAddress": "Ganesh Colony Barely, 464668",
+      "course": "10th",
+      "instituteUrl": null,
+      "instituteLogo": "https://static.wixstatic.com/media/7330e9_66de7138c0164bad853156a463897ad0~mv2.png/v1/fill/w_263,h_118,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/SPS%20Red%20Logo.png",
+      "startDate": "March-2009",
+      "endDate": "Feb-2010",
+      "grades": "77%",
+      "projects": null
+    }
+  ],
+  "Projects": [
+    {
+      "isActive": true,
+      "order": 1,
+      "name": "Cite-Web",
+      "startDate": "Sept-2017",
+      "endDate": "Apr-2021",
+      "description": "Public Safety Solution is an automated photo enforcement program that detects and processes traffic violations committed by vehicles, such as running red lights, speeding, and radar enforcement violations. The program consists of two applications: Cite-Net and Cite-Web. Cite-Net captures all violation events and sends them to Cite-Web for further processing. Cite-Web displays the citation details to the officer, who then verifies them and sends them to different queues, such as DMV Verify and Police Approval, to generate the citation notice for the violator. The violator can then pay the fine or appeal for a court hearing. In the court, the judge can view the appeal citation details in Cite-Web Court queue and decide the outcome of the case.",
+      "skillsUsed": [
+        "ASP.NET",
+        "Classic ASP",
+        "VB.NET",
+        "C#",
+        "t-SQL",
+        "Javascript",
+        "HTML",
+        "CSS",
+        "jQuery"
+      ],
+      "associationId": 1,
+      "status": "Finished",
+      "url": "https://public.cite-web.com/PublicINQ/default.asp",
+      "myRole": "Application Development & Support Engineer 1",
+      "roleDescription": "",
+      "isInternal": true
+    },
+    {
+      "isActive": true,
+      "order": 2,
+      "name": "PartSurfer",
+      "startDate": "Apr-2021",
+      "endDate": "Aug-2022",
+      "description": "PartSurfer is a web application that enables field engineers to check the part availability and component details for any product. The application allows engineers to search for matching spare parts based on the part or serial number and add them to their cart. The engineers can then purchase the items from the enterprise part store (WWEPS) website.",
+      "skillsUsed": [
+        "C#",
+        "ASP.NET",
+        "MVC/Entity Framework",
+        "HTML",
+        "CSS",
+        "Javascript",
+        "t-SQL"
+      ],
+      "associationId": 2,
+      "status": "Finished",
+      "url": "https://partsurfer.hpe.com/",
+      "myRole": "IT Developer/Engineer II",
+      "roleDescription": "",
+      "isInternal": false
+    },
+    {
+      "isActive": true,
+      "order": 3,
+      "name": "Easitool",
+      "startDate": "Apr-2021",
+      "endDate": "Aug-2022",
+      "description": "Easitool is a web-based tool that manages the workflow and escalations of global sales orders and part status. The tool enables issue tracking and history for consistent information across organizations throughout the delivery process. The tool also facilitates collaboration between teams with the sub-ticket capability. The tool connects live to the ordering systems (SAP) and displays part inventory availability without requiring direct system access.",
+      "skillsUsed": [
+        "C#",
+        "ASP.NET",
+        "Classic ASP",
+        "t-SQL",
+        "HTML",
+        "CSS",
+        "Javascript"
+      ],
+      "associationId": 2,
+      "status": "Finished",
+      "url": "https://easitoolx-ent.itcs.hpe.com/Welcome.asp",
+      "myRole": "IT Developer/Engineer II",
+      "roleDescription": "",
+      "isInternal": true
+    },
+    {
+      "isActive": true,
+      "order": 4,
+      "name": " Global iReturns",
+      "startDate": "Apr-2021",
+      "endDate": "Aug-2022",
+      "description": "iReturns is a disposition tool that handles the reverse logistics of any part or material that is returned to HPE. The tool obtains data from SAP about the material received and decides the best way to dispose of it. The tool can deal with both defective and good material.",
+      "skillsUsed": [
+        "C#",
+        "ASP.NET",
+        "t-SQL",
+        "HTML",
+        "CSS",
+        "Javascript",
+        "jQuery"
+      ],
+      "associationId": 2,
+      "status": "Finished",
+      "url": "https://ireturns.it.hpe.com/",
+      "myRole": "IT Developer/Engineer II",
+      "roleDescription": "",
+      "isInternal": true
+    },
+    {
+      "isActive": true,
+      "order": 5,
+      "name": "SiPh Dashboard",
+      "startDate": "Aug-2022",
+      "endDate": "Present",
+      "description": "This is test project 5 description.",
+      "skillsUsed": [
+        "C#",
+        "ASP.NET",
+        "MVC",
+        "t-SQL",
+        "HTML",
+        "CSS",
+        "jQuery",
+        "Javascript"
+      ],
+      "associationId": 3,
+      "status": "Finished",
+      "url": "http://wpdvisscmbeap5/ISS_SemiDashboard/?returnUrl=%252fISS_SemiDashboard%252fSiPhReporting",
+      "myRole": "Senior Engineer",
+      "roleDescription": "",
+      "isInternal": true
+    },
+    {
+      "isActive": true,
+      "order": 6,
+      "name": "NCM/Pedigree",
+      "startDate": "Aug-2022",
+      "endDate": "Present",
+      "description": "This is test project 6 description.",
+      "skillsUsed": [
+        "ASP.NET",
+        "C#",
+        "t-SQL",
+        "MVC",
+        "HTML",
+        "CSS",
+        "jQuery",
+        "Kendo",
+        "Javascript"
+      ],
+      "associationId": 3,
+      "status": "Finished",
+      "url": "http://wpdvissfabap:83/NCMv2/Login?returnUrl=%252fNCMv2%252f",
+      "myRole": "Senior Engineer",
+      "roleDescription": "",
+      "isInternal": true
+    },
+    {
+      "isActive": true,
+      "order": 7,
+      "name": "Engineering Data Portal",
+      "startDate": "Aug-2022",
+      "endDate": "Present",
+      "description": "This is test project 7 description.",
+      "skillsUsed": ["VB.NET", "HTML", "CSS", "jQuery", "Javascript", "t-SQL"],
+      "associationId": 3,
+      "status": "Legacy",
+      "url": "http://isscmbap5pdpclchn.broadcom.net/EngineeringData/EngineeringDataHome.aspx",
+      "myRole": "Senior Engineer",
+      "roleDescription": "",
+      "isInternal": true
+    },
+    {
+      "isActive": true,
+      "order": 8,
+      "name": "Engg. Data Portal",
+      "startDate": "Aug-2022",
+      "endDate": "Present",
+      "description": "This is test project 8 description.",
+      "skillsUsed": [
+        "React JS",
+        "Javascript",
+        "ASP.NET API",
+        "C#",
+        "t-SQL",
+        "HTML",
+        "Bootstrap CSS"
+      ],
+      "associationId": 3,
+      "status": "Modernize",
+      "url": "http://isscmbap5pdambtchn.broadcom.net/EngineeringDataV2",
+      "myRole": "Senior Engineer",
+      "roleDescription": "",
+      "isInternal": true
+    },
+    {
+      "isActive": true,
+      "order": 9,
+      "name": "Oven Slot Tracking",
+      "startDate": "Aug-2022",
+      "endDate": "Present",
+      "description": "This is test project 9 description.",
+      "skillsUsed": [
+        "React JS",
+        "Node JS",
+        "Javascript",
+        "HTML",
+        "Bootstrap CSS",
+        "t-SQL"
+      ],
+      "associationId": 3,
+      "status": "Finished",
+      "url": "http://isscmfeap1pdven.broadcom.net/Dashboard",
+      "myRole": "Senior Engineer",
+      "roleDescription": "",
+      "isInternal": true
+    },
+    {
+      "isActive": true,
+      "order": 9,
+      "name": "Shipment Data Extractor",
+      "startDate": "Aug-2022",
+      "endDate": "Present",
+      "description": "This is test project 9 description.",
+      "skillsUsed": [
+        "ASP.NET Core",
+        "ASP.NET Core API",
+        "C#",
+        "t-SQL",
+        "HTML",
+        "CSS",
+        "jQuery",
+        "Javascript"
+      ],
+      "associationId": 3,
+      "status": "Legacy",
+      "url": "http://wpdvissfabap01:81/EDT/Login",
+      "myRole": "Senior Engineer",
+      "roleDescription": "",
+      "isInternal": true
+    },
+    {
+      "isActive": true,
+      "order": 10,
+      "name": "Shipment Data Extractor",
+      "startDate": "Aug-2022",
+      "endDate": "Present",
+      "description": "This is test project 10 description.",
+      "skillsUsed": [
+        "ASP.NET API",
+        "C#",
+        "React JS",
+        "TypeScript",
+        "Tailwind CSS",
+        "t-SQL"
+      ],
+      "associationId": 3,
+      "status": "Finished",
+      "url": "",
+      "myRole": "Senior Engineer",
+      "roleDescription": "",
+      "isInternal": true
+    },
+    {
+      "isActive": true,
+      "order": 11,
+      "name": "DataPack Extractor",
+      "startDate": "Aug-2022",
+      "endDate": "Present",
+      "description": "This is test project 11 description.",
+      "skillsUsed": [
+        "React JS",
+        "Node JS",
+        "HTML",
+        "CSS",
+        "Javascript",
+        "t-SQL"
+      ],
+      "associationId": 3,
+      "status": "Finished",
+      "url": "",
+      "myRole": "Senior Engineer",
+      "roleDescription": "",
+      "isInternal": true
+    },
+    {
+      "isActive": true,
+      "order": 12,
+      "name": "Defect Tracking",
+      "startDate": "Aug-2022",
+      "endDate": "Present",
+      "description": "This is test project 12 description.",
+      "skillsUsed": [
+        "ASP.NET",
+        "C#",
+        "t-SQL",
+        "HTML",
+        "CSS",
+        "jQuery",
+        "Javascript"
+      ],
+      "associationId": 3,
+      "status": "Finished",
+      "url": "http://wpdvissfabap:83/IssDefectTracking/Reports ",
+      "myRole": "Senior Engineer",
+      "roleDescription": "",
+      "isInternal": true
+    },
+    {
+      "isActive": true,
+      "order": 13,
+      "name": "Die Tracer",
+      "startDate": "Aug-2022",
+      "endDate": "Present",
+      "description": "This is test project 13 description.",
+      "skillsUsed": [
+        "ASP.NET",
+        "C#",
+        "t-SQL",
+        "HTML",
+        "CSS",
+        "jQuery",
+        "Javascript"
+      ],
+      "associationId": 3,
+      "status": "Finished",
+      "url": "",
+      "myRole": "Senior Engineer",
+      "roleDescription": "",
+      "isInternal": true
+    },
+    {
+      "isActive": true,
+      "order": 14,
+      "name": "XML Generator",
+      "startDate": "Aug-2022",
+      "endDate": "Present",
+      "description": "This is test project 14 description.",
+      "skillsUsed": ["ASP.NET Console", "C#", "t-SQL"],
+      "associationId": 3,
+      "status": "Finished",
+      "url": "",
+      "myRole": "Senior Engineer",
+      "roleDescription": "",
+      "isInternal": true
+    },
+    {
+      "isActive": true,
+      "order": 15,
+      "name": "SIPM",
+      "startDate": "Aug-2022",
+      "endDate": "Present",
+      "description": "This is test project 15 description.",
+      "skillsUsed": ["ASP.NET Console", "C#", "t-SQL"],
+      "associationId": 3,
+      "status": "Finished",
+      "url": "",
+      "myRole": "Senior Engineer",
+      "roleDescription": "",
+      "isInternal": true
+    },
+    {
+      "isActive": true,
+      "order": 16,
+      "name": "Wafer Qual File Processor",
+      "startDate": "Aug-2022",
+      "endDate": "Present",
+      "description": "This is test project 16 description.",
+      "skillsUsed": ["ASP.NET Console", "C#", "t-SQL"],
+      "associationId": 3,
+      "status": "Finished",
+      "url": "",
+      "myRole": "Senior Engineer",
+      "roleDescription": "",
+      "isInternal": true
+    },
+    {
+      "isActive": true,
+      "order": 17,
+      "name": "ReSale",
+      "startDate": "June-2017",
+      "endDate": "July-2017",
+      "description": "This is test project 17 description.",
+      "skillsUsed": ["J2EE", "HTML", "CSS", "Javascript", "t-SQL"],
+      "associationId": 11,
+      "status": "Finished",
+      "url": "",
+      "myRole": "Student",
+      "roleDescription": "",
+      "isInternal": true
+    },
+    {
+      "isActive": true,
+      "order": 18,
+      "name": "Personal Accountant Web Portal",
+      "startDate": "Feb-2016",
+      "endDate": "June-2016",
+      "description": "This is test project 18 description.",
+      "skillsUsed": ["Java", "HTML", "CSS", "Javascript", "t-SQL"],
+      "associationId": 12,
+      "status": "Finished",
+      "url": "",
+      "myRole": "Student",
+      "roleDescription": "",
+      "isInternal": true
+    }
+  ],
+  "ContactMe": {
+    "SocialPlatform": [
+      {
+        "type": "Mail",
+        "text": "Email",
+        "subtext": null,
+        "url": "Yogi.tech007@gmail.com",
+        "isNavLink": false,
+        "prefixLogo": [
+          {
+            "name": "Mail",
+            "color": "#0277b5",
+            "className": "",
+            "logoSrc": null,
+            "logoUrl": "mailto:Yogi.tech007@gmail.com"
+          }
+        ]
+      },
+      {
+        "type": "Phone",
+        "text": "Mobile Number",
+        "subtext": "",
+        "url": "+91 9754090035",
+        "isNavLink": false,
+        "prefixLogo": [
+          {
+            "name": "Phone",
+            "color": "#0277b5",
+            "className": "",
+            "logoSrc": null,
+            "logoUrl": null
+          }
+        ]
+      },
+      {
+        "type": "Social",
+        "text": "Socials",
+        "subtext": null,
+        "url": null,
+        "isNavLink": false,
+        "prefixLogo": [
+          {
+            "name": "Linkedin",
+            "color": "#0277b5",
+            "className": "",
+            "logoSrc": null,
+            "logoUrl": "https://www.linkedin.com/in/yogesh-sharma-96a981b5/?originalSubdomain=in"
+          },
+          {
+            "name": "Instagram",
+            "color": "#b5179e",
+            "className": "",
+            "logoSrc": null,
+            "logoUrl": "https://www.linkedin.com/in/yogesh-sharma-96a981b5/?originalSubdomain=in"
+          }
+        ]
+      }
+    ],
+    "Direct": []
+  },
+  "Resume": {
+    "resumeName": "Yogesh_Sharma_Resume.pdf",
+    "src": "https://raw.githubusercontent.com/Yogi1508/Portfolio/master/assets/ys/docs/Yogesh_Sharma_Resume.pdf"
+  }
+}
