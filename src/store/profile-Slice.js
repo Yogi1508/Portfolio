@@ -1,5 +1,6 @@
 import { createAsyncThunk, createSlice } from "@reduxjs/toolkit";
 import axios from "axios";
+import toast from "react-hot-toast";
 
 const initialProfileStateData = {
   sideBarData: null,
@@ -35,7 +36,10 @@ export const loadUserProfile = createAsyncThunk(
     const queryParams = new URLSearchParams(window.location.search);
     let paramValue = queryParams.get("id");
 
-    if (paramValue === null || paramValue === undefined) paramValue = 1;
+    if (paramValue === null || paramValue === undefined) {
+      toast.warn("User Profile Not Found. Please Check Id Value.");
+      paramValue = 1;
+    }
 
     const sideBarData = await FetchSideBarData(paramValue);
     const contentData = await FetchContentData(paramValue);
