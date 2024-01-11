@@ -7,9 +7,9 @@ const initialProfileStateData = {
   contentData: null,
 };
 
-const FetchSideBarData = async (id) => {
+const FetchUserConfig = async (id) => {
   try {
-    const apiUrl = `${process.env.PUBLIC_URL}/SideBarData_${id}.json`;
+    const apiUrl = `${process.env.PUBLIC_URL}/UserConfig.json`;
 
     const response = await axios.get(apiUrl);
     return response.data;
@@ -18,11 +18,22 @@ const FetchSideBarData = async (id) => {
   }
 };
 
-const FetchContentData = async (id) => {
+const FetchSideBarData = async (jsonUrl) => {
   try {
-    const apiUrl = `${process.env.PUBLIC_URL}/ContentData_${id}.json`;
+    // const apiUrl = `${process.env.PUBLIC_URL}/SideBarData_${id}.json`;
 
-    const response = await axios.get(apiUrl);
+    const response = await axios.get(jsonUrl);
+    return response.data;
+  } catch (err) {
+    return null;
+  }
+};
+
+const FetchContentData = async (jsonUrl) => {
+  try {
+    // const apiUrl = `${process.env.PUBLIC_URL}/ContentData_${id}.json`;
+
+    const response = await axios.get(jsonUrl);
     return response.data;
   } catch (err) {
     return null;
@@ -34,15 +45,32 @@ export const loadUserProfile = createAsyncThunk(
   "profile/load",
   async (_, { dispatch }) => {
     const queryParams = new URLSearchParams(window.location.search);
-    let paramValue = queryParams.get("id");
+    let userId = queryParams.get("id");
 
-    if (paramValue === null || paramValue === undefined) {
+    if (userId === null || userId === undefined) {
       toast.warn("User Profile Not Found. Please Check Id Value.");
-      paramValue = 1;
+      userId = 1;
     }
 
-    const sideBarData = await FetchSideBarData(paramValue);
-    const contentData = await FetchContentData(paramValue);
+    console.log("userId", userId);
+
+    const userConfig = await FetchUserConfig();
+    let sideBarData = null;
+    let contentData = null;
+
+    console.log("userConfig", userConfig);
+
+    if (userConfig !== null && userConfig !== undefined) {
+      const userData = userConfig.Users.find((user) => user.name === userId);
+      console.log("userData", userData);
+
+      if (userData !== null && userData !== undefined) {
+        sideBarData = await FetchSideBarData(userData.sidebarJson);
+        console.log("sideBarData", sideBarData);
+        contentData = await FetchContentData(userData.contentJson);
+        console.log("contentData", contentData);
+      }
+    }
 
     // console.log(sideBarData);
     // console.log(contentData);
@@ -52,7 +80,7 @@ export const loadUserProfile = createAsyncThunk(
         ProfileDataActions.LoadSideBarConfig({ sideBarData: sideBarData })
       );
     } else {
-      // Handle error
+      toast.error("Unable To Load SideBar Configuration.");
     }
 
     if (contentData !== undefined && contentData !== null) {
@@ -60,7 +88,7 @@ export const loadUserProfile = createAsyncThunk(
         ProfileDataActions.LoadContentConfig({ contentData: contentData })
       );
     } else {
-      // Handle error
+      toast.error("Unable To Load Body Content Configuration.");
     }
   }
 );
