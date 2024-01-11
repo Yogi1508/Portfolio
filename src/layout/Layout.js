@@ -37,7 +37,7 @@ const Layout = (props) => {
     <>
       <Toaster />
 
-      <div className="flex">
+      <div className="flex mt-2 mb-2">
         {sideBarData && (
           <SidebarMenu
             showSideMenu={showSideMenu}
