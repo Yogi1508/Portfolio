@@ -26,7 +26,7 @@ const Home = ({ props }) => {
 
   useEffect(() => {
     const handleResize = () => {
-      if (window.innerWidth > 1000) {
+      if (window.innerWidth > 700) {
         setShowSkillAnimation(true);
       } else {
         setShowSkillAnimation(false);
