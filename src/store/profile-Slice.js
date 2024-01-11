@@ -52,23 +52,23 @@ export const loadUserProfile = createAsyncThunk(
       userId = 1;
     }
 
-    console.log("userId", userId);
+    // console.log("userId", userId);
 
     const userConfig = await FetchUserConfig();
     let sideBarData = null;
     let contentData = null;
 
-    console.log("userConfig", userConfig);
+    // console.log("userConfig", userConfig);
 
     if (userConfig !== null && userConfig !== undefined) {
       const userData = userConfig.Users.find((user) => user.name === userId);
-      console.log("userData", userData);
+      // console.log("userData", userData);
 
       if (userData !== null && userData !== undefined) {
         sideBarData = await FetchSideBarData(userData.sidebarJson);
-        console.log("sideBarData", sideBarData);
+        // console.log("sideBarData", sideBarData);
         contentData = await FetchContentData(userData.contentJson);
-        console.log("contentData", contentData);
+        // console.log("contentData", contentData);
       }
     }
 
