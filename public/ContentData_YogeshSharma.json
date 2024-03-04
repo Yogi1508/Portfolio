@@ -634,10 +634,10 @@
     {
       "isActive": true,
       "order": 5,
-      "name": "SiPh Dashboard",
+      "name": "SiPh Report",
       "startDate": "Aug-2022",
       "endDate": "Present",
-      "description": "This is test project 5 description.",
+      "description": "The SiPh Report system is an advanced and centralized solution that offers comprehensive perceptivities into the wafer, die, engine and module level parameter analysis, defect and yield tracking throughout the silicon-photonic manufacturing process. It provides end-to-end traceability from wafers to modules.",
       "skillsUsed": [
         "C#",
         "ASP.NET",
@@ -652,32 +652,7 @@
       "status": "Finished",
       "url": "http://wpdvisscmbeap5/ISS_SemiDashboard/?returnUrl=%252fISS_SemiDashboard%252fSiPhReporting",
       "myRole": "Senior Engineer",
-      "roleDescription": "",
-      "isInternal": true
-    },
-    {
-      "isActive": true,
-      "order": 6,
-      "name": "NCM/Pedigree",
-      "startDate": "Aug-2022",
-      "endDate": "Present",
-      "description": "This is test project 6 description.",
-      "skillsUsed": [
-        "ASP.NET",
-        "C#",
-        "t-SQL",
-        "MVC",
-        "HTML",
-        "CSS",
-        "jQuery",
-        "Kendo",
-        "Javascript"
-      ],
-      "associationId": 3,
-      "status": "Finished",
-      "url": "http://wpdvissfabap:83/NCMv2/Login?returnUrl=%252fNCMv2%252f",
-      "myRole": "Senior Engineer",
-      "roleDescription": "",
+      "roleDescription": "Working As a Senior Engineer on the SiPh Report project at Broadcom INC. I've been tasked to develop/Maintain this report tool for engineers in the semiconductor manufacturing domain. by Leveraging the technical skill i have successfully implemented new features , optimized performance and addressing critical issues to ensure optimal application performance and user satisfaction.",
       "isInternal": true
     },
     {
@@ -728,7 +703,8 @@
       "description": "The Oven-Slot Tracking application is a tool designed to track the positioning of motherboards within an oven tray. This application offers detailed information of each slot of the tray which is crucial for effective motherboard tracking. Through detailed analysis of slot data, engineers can easily identify the status [Active Or Idle] of motherboard. This application offers visual representation of motherboard data to track and menage motherboards.",
       "skillsUsed": [
         "React JS",
-        "Node JS",
+        "ASP.NET API",
+        "C#",
         "Javascript",
         "HTML",
         "Bootstrap CSS",
@@ -747,7 +723,7 @@
       "name": "Shipment Data Extractor",
       "startDate": "Aug-2022",
       "endDate": "Present",
-      "description": "This is test project 9 description.",
+      "description": "The Shipment Data Extractor is a web tool that brings together wafer details from different sources and performs multiple checks on data to ensure accuracy and creates a list of wafers ready for shipment. Users rely on this list to send wafers to customer.",
       "skillsUsed": [
         "ASP.NET Core",
         "ASP.NET Core API",
@@ -762,7 +738,7 @@
       "status": "Legacy",
       "url": "http://wpdvissfabap01:81/EDT/Login",
       "myRole": "Senior Engineer",
-      "roleDescription": "",
+      "roleDescription": "Working As a Senior Engineer on the Shipment Data Extractor project at Broadcom INC. I've been tasked to maintain this powerful tracking tool for users in the semiconductor manufacturing domain. by Leveraging the technical skill i have successfully implemented new features , optimized performance and addressing critical issues to ensure optimal application performance and user satisfaction.",
       "isInternal": true
     },
     {
@@ -771,20 +747,21 @@
       "name": "Shipment Data Extractor",
       "startDate": "Aug-2022",
       "endDate": "Present",
-      "description": "This is test project 10 description.",
+      "description": "The Shipment Data Extractor is a web tool that brings together wafer details from different sources and performs multiple checks on data to ensure accuracy and creates a list of wafers ready for shipment. Users rely on this list to send wafers to customer.",
       "skillsUsed": [
         "ASP.NET API",
         "C#",
         "React JS",
         "TypeScript",
         "Tailwind CSS",
-        "t-SQL"
+        "t-SQL",
+        "Javascript"
       ],
       "associationId": 3,
       "status": "Finished",
       "url": "",
       "myRole": "Senior Engineer",
-      "roleDescription": "",
+      "roleDescription": "Working As a Senior Engineer on the Shipment Data Extractor project at Broadcom INC. I've been tasked to develop this data consolidation tool for users in the semiconductor manufacturing domain. by Leveraging the technical skill i have successfully implemented new features , optimized performance and addressing critical issues to ensure optimal application performance and user satisfaction.",
       "isInternal": true
     },
     {
@@ -793,7 +770,7 @@
       "name": "DataPack Extractor",
       "startDate": "Aug-2022",
       "endDate": "Present",
-      "description": "This is test project 11 description.",
+      "description": "The Datapack Extractor is a web application which can retrieve specific part details from a SQL database in the specific excel template. The generated Excel file is then transfer to an AWS S3 bucket for storage and future utilization.",
       "skillsUsed": [
         "React JS",
         "Node JS",
@@ -806,7 +783,7 @@
       "status": "Finished",
       "url": "",
       "myRole": "Senior Engineer",
-      "roleDescription": "",
+      "roleDescription": "Working As a Senior Engineer on the DataPack Extractor project at Broadcom INC. I've been tasked to develop this data extractor tool for users in the semiconductor manufacturing domain. by Leveraging the technical skill i have successfully implemented new features , optimized performance and addressing critical issues to ensure optimal application performance and user satisfaction.",
       "isInternal": true
     },
     {
@@ -861,13 +838,13 @@
       "name": "XML Generator",
       "startDate": "Aug-2022",
       "endDate": "Present",
-      "description": "This is test project 14 description.",
+      "description": "The XML Generator application is a handy tool that converts requested SQL data into the required XML format. It then transfers this XML data to the Oracle System for further processing.",
       "skillsUsed": ["ASP.NET Console", "C#", "t-SQL"],
       "associationId": 3,
       "status": "Finished",
       "url": "",
       "myRole": "Senior Engineer",
-      "roleDescription": "",
+      "roleDescription": "Working As a Senior Engineer on the XML Generator project at Broadcom INC. I've been tasked to maintain this ETL tool for users in the semiconductor manufacturing domain. by Leveraging the technical skill i have successfully implemented new features , optimized performance and addressing critical issues to ensure optimal application performance and user satisfaction.",
       "isInternal": true
     },
     {
@@ -876,13 +853,13 @@
       "name": "SIPM",
       "startDate": "Aug-2022",
       "endDate": "Present",
-      "description": "This is test project 15 description.",
+      "description": "The SIPM application is a tool that retrieves compressed files from FTP/SFTP servers. It then extracts the data from these files and transfers it to a specified location for additional processing. Additionally, it sends out email reports for each file transfer, ensuring users are kept informed of the file transfer.",
       "skillsUsed": ["ASP.NET Console", "C#", "t-SQL"],
       "associationId": 3,
       "status": "Finished",
       "url": "",
       "myRole": "Senior Engineer",
-      "roleDescription": "",
+      "roleDescription": "Working As a Senior Engineer on the SIPM project at Broadcom INC. I've been tasked to develop this file transfer tool for users in the semiconductor manufacturing domain. by Leveraging the technical skill i have successfully implemented new features , optimized performance and addressing critical issues to ensure optimal application performance and user satisfaction.",
       "isInternal": true
     },
     {
@@ -963,7 +940,7 @@
     {
       "isActive": true,
       "order": 21,
-      "name": "EDT Dashboard",
+      "name": "Mellanox Dashboard",
       "startDate": "Feb-2016",
       "endDate": "June-2016",
       "description": "This is test project 21 description.",
