@@ -371,17 +371,17 @@
       "domain": "Transportation",
       "jobProfile": "Worked as a Full Stack Developer on Web and Windows applications such as [Windows service, console application] using Microsoft technologies like - Classic ASP, ASP.NET, c#, t-SQL, Crystal Reports, HTML, Javascript and jQuery.",
       "rr": [
-        "Communicated with clients and gathered requirements for project.",
-        "Assigned tasks to team members and provided guidance and feedback on their work.",
-        "Troubleshot and resolved production issues related to payment and functionality.",
-        "Implemented new features for existing clients and configured new clients independently.",
-        "Generated dynamic notices and reports for clients using crystal report tool.",
+        "Communicated with clients for requirement gathering and provided ongoing support.",
+        "Supervised junior team members and delegated tasks within the team.",
+        "Successfully resolved production issues related to violation payments and critical application functionality.",
+        "Implemented new features for multiple clients and independently developed and set up new clients.",
+        "Implemented and maintained automated citation notices and report generation for clients using Crystal Report tools.",
         "Developed and fixed payment logic for clients and handled other payment related issues.",
-        "Set up consolidated client data metrics for over 50 clients for Conduent R&D department to calculate project revenue.",
-        "Automated manual processes through windows and web applications.",
-        "Maintained database for clients, including server performance, SQL jobs and firewall issues.",
-        "Trained and mentored juniors for the given Project.",
-        "Tested the entire application manually."
+        "Established consolidated client data metrics for over 50 clients, facilitating accurate project revenue calculation for audit purposes for the company's R&D department.",
+        "Automated manual processes by developing C# executables and web applications.",
+        "Managed client databases, including server performance, SQL job monitoring, and firewall issues, for optimal application performance.",
+        "Provided training to juniors for the application and offered guidance to them.",
+        "Performed manual testing across the entire application."
       ],
       "skillsUsed": [
         "JavaScript",
@@ -415,11 +415,12 @@
       "domain": "Supply Chain Services",
       "jobProfile": "Worked as a Full Stack Developer on Web and Windows applications [Windows service, console application] using Microsoft technologies [C#, ASP.NET, MVC/Entity Framework, Classic ASP, Javascript, jQuery, HTML And CSS].",
       "rr": [
-        "Spearheaded communication with business stakeholders and gathered requirements for various IT projects.",
-        "Enhanced user experience and functionality of web applications using microsoft technologies.",
-        "Migrated data center applications to cloud platforms and ensured security and scalability.",
-        "Utilized GitHub for code deployment, version control, and collaboration.",
-        "Demonstrated leadership and mentoring skills by training and guiding juniors for the application."
+        "Communicated with business stakeholders to gather requirements and ensure alignment with project.",
+        "Played a key role in the enhancement team, responsible for implementing new features and enhancements to the PartSurfer application.",
+        "Participated in data center application migration activities to ensure seamless transitions and minimal disruptions",
+        "Managed staging and production code deployments, ensuring smooth transitions between environments.",
+        "Maintained source code in GitHub, facilitating version control and collaboration among team members.",
+        "Modified the application to ensure compliance with HPE's regulatory standards, demonstrating a commitment to quality and adherence to industry regulations"
       ],
       "skillsUsed": [
         "JavaScript",
@@ -540,7 +541,7 @@
       "name": "Cite-Web",
       "startDate": "Sept-2017",
       "endDate": "Apr-2021",
-      "description": "Public Safety Solution is an automated photo enforcement program that detects and processes traffic violations committed by vehicles, such as running red lights, speeding, and radar enforcement violations. The program consists of two applications: Cite-Net and Cite-Web. Cite-Net captures all violation events and sends them to Cite-Web for further processing. Cite-Web displays the citation details to the officer, who then verifies them and sends them to different queues, such as DMV Verify and Police Approval, to generate the citation notice for the violator. The violator can then pay the fine or appeal for a court hearing. In the court, the judge can view the appeal citation details in Cite-Web Court queue and decide the outcome of the case.",
+      "description": "Public Safety Solution is an automated photo enforcement system designed to address traffic violations, including infractions such as Red Light, Speed, and Radar Enforcement. The cite-net application captures all violation and processor approves violation to next queue in cite-web application. Cite-Web provides county officers with citation details, then the officer processes these citations to multiple queues (Like: Verify, DMV Verify, Police Approval) to generate the citation notice for the violators. Then violators can pay the fine or can appeal for court hearing. In the court, judges can review appeal citation details in the Cite-Web Court queue, providing violators with the opportunity to prove their innocence or settle fines.",
       "skillsUsed": [
         "ASP.NET",
         "Classic ASP",
@@ -556,7 +557,7 @@
       "status": "Finished",
       "url": "https://public.cite-web.com/PublicINQ/default.asp",
       "myRole": "Application Development & Support Engineer 1",
-      "roleDescription": "",
+      "roleDescription": "Dedicated Application Development & Support Engineer 1 with extensive experience in developing and maintaining enterprise-level applications. Proficient in client communication, issue resolution, and project coordination, with a focus on delivering high-quality solutions and ensuring client satisfaction",
       "isInternal": true
     },
     {
@@ -565,21 +566,23 @@
       "name": "PartSurfer",
       "startDate": "Apr-2021",
       "endDate": "Aug-2022",
-      "description": "PartSurfer is a web application that enables field engineers to check the part availability and component details for any product. The application allows engineers to search for matching spare parts based on the part or serial number and add them to their cart. The engineers can then purchase the items from the enterprise part store (WWEPS) website.",
+      "description": "PartSurfer is a web application designed for field engineers to quickly access part availability and component details for various products. Engineers can search for parts or serial numbers and view matching spare parts, adding them to their cart for purchase through the enterprise Part Store (WWEPS) website.",
       "skillsUsed": [
+        "JavaScript",
+        "jQuery",
+        "t-sql",
         "C#",
-        "ASP.NET",
-        "MVC/Entity Framework",
-        "HTML",
-        "CSS",
-        "Javascript",
-        "t-SQL"
+        "ASP.NET MVC",
+        "Entity Framework",
+        "Classic Asp",
+        "SQL Server",
+        "ASP.NET"
       ],
       "associationId": 2,
       "status": "Finished",
       "url": "https://partsurfer.hpe.com/",
       "myRole": "IT Developer/Engineer II",
-      "roleDescription": "",
+      "roleDescription": " IT Developer/Engineer 2 with Hewlett Packard Enterprise GlobalSoft Private Limited, contributing to the development and enhancement of the PartSurfer web application. Adept at communication, problem-solving, and project management, with a focus on delivering high-quality solutions that meet business objectives",
       "isInternal": false
     },
     {
@@ -588,7 +591,7 @@
       "name": "Easitool",
       "startDate": "Apr-2021",
       "endDate": "Aug-2022",
-      "description": "Easitool is a web-based tool that manages the workflow and escalations of global sales orders and part status. The tool enables issue tracking and history for consistent information across organizations throughout the delivery process. The tool also facilitates collaboration between teams with the sub-ticket capability. The tool connects live to the ordering systems (SAP) and displays part inventory availability without requiring direct system access.",
+      "description": "Easitool is a web-based tool to manage the workflow and escalations of global sales orders and part status. The tool serves as a centralized platform for issue tracking and history, ensuring consistent information across organizations throughout the delivery process. Additionally, Easitool facilitates collaboration between teams through its sub-ticket capability, enhancing communication and efficiency. By connecting live to the ordering systems (SAP), the tool provides real-time part inventory availability without requiring direct system access.",
       "skillsUsed": [
         "C#",
         "ASP.NET",
@@ -602,7 +605,7 @@
       "status": "Finished",
       "url": "https://easitoolx-ent.itcs.hpe.com/Welcome.asp",
       "myRole": "IT Developer/Engineer II",
-      "roleDescription": "",
+      "roleDescription": "IT Developer/Engineer 2 with Hewlett Packard Enterprise GlobalSoft Private Limited, contributing to the development and maintenance of the Easitool web-based tool. Proficient in C#, ASP.NET, Classic ASP, T-SQL, HTML, CSS, and JavaScript, with a focus on delivering high-quality solutions that streamline workflow and enhance collaboration for global sales orders and part status management.",
       "isInternal": true
     },
     {
@@ -611,7 +614,7 @@
       "name": " Global iReturns",
       "startDate": "Apr-2021",
       "endDate": "Aug-2022",
-      "description": "iReturns is a disposition tool that handles the reverse logistics of any part or material that is returned to HPE. The tool obtains data from SAP about the material received and decides the best way to dispose of it. The tool can deal with both defective and good material.",
+      "description": "iReturns is a disposition tool to manage the reverse logistics of parts or materials returned to HPE. The tool retrieves data from SAP regarding the received materials and determines the optimal disposition method, handling both defective and good materials.",
       "skillsUsed": [
         "C#",
         "ASP.NET",
@@ -625,7 +628,7 @@
       "status": "Finished",
       "url": "https://ireturns.it.hpe.com/",
       "myRole": "IT Developer/Engineer II",
-      "roleDescription": "",
+      "roleDescription": "IT Developer/Engineer 2 with Hewlett Packard Enterprise GlobalSoft Private Limited, contributing to the development and implementation of the Global iReturns disposition tool. Proficient in a wide range of technologies including C#, ASP.NET, T-SQL, HTML, CSS, JavaScript, and jQuery, with a focus on optimizing reverse logistics processes for returned parts and materials.",
       "isInternal": true
     },
     {
@@ -683,25 +686,26 @@
       "name": "Engineering Data Portal",
       "startDate": "Aug-2022",
       "endDate": "Present",
-      "description": "This is test project 7 description.",
+      "description": "The Engineering Data Portal, developed by Broadcom, is a powerful data analysis tool designed to provide detailed engineering test results obtained during the semiconductor manufacturing process to Contract Manufacturers (CM). This tool provides access to specific product results for designated sites and facilities, enabling them to analyze and optimize their manufacturing processes. By leveraging these insights, engineers can identify recurring failures, proactively implement countermeasures, and enhance productivity and product quality.",
       "skillsUsed": ["VB.NET", "HTML", "CSS", "jQuery", "Javascript", "t-SQL"],
       "associationId": 3,
       "status": "Legacy",
       "url": "http://isscmbap5pdpclchn.broadcom.net/EngineeringData/EngineeringDataHome.aspx",
       "myRole": "Senior Engineer",
-      "roleDescription": "",
+      "roleDescription": "As a Senior Engineer on the Engineering Data Portal project at Broadcom INC. I've been tasked to maintain this powerful data analysis tool for Contract Manufacturers (CM) in the semiconductor manufacturing domain. by Leveraging the technical skill i have successfully implemented new features , optimized performance and addressing critical issues to ensure optimal application performance and user satisfaction.",
       "isInternal": true
     },
     {
       "isActive": true,
       "order": 8,
-      "name": "Engg. Data Portal",
+      "name": "EnggDataPortal[Modernized]",
       "startDate": "Aug-2022",
       "endDate": "Present",
-      "description": "This is test project 8 description.",
+      "description": "The Engineering Data Portal, developed by Broadcom, is a powerful data analysis tool designed to provide detailed engineering test results obtained during the semiconductor manufacturing process to Contract Manufacturers (CM). This tool provides access to specific product results for designated sites and facilities, enabling them to analyze and optimize their manufacturing processes. By leveraging these insights, engineers can identify recurring failures, proactively implement countermeasures, and enhance productivity and product quality.",
       "skillsUsed": [
         "React JS",
         "Javascript",
+        "ASP.NET",
         "ASP.NET API",
         "C#",
         "t-SQL",
@@ -712,7 +716,7 @@
       "status": "Modernize",
       "url": "http://isscmbap5pdambtchn.broadcom.net/EngineeringDataV2",
       "myRole": "Senior Engineer",
-      "roleDescription": "",
+      "roleDescription": "As a Senior Engineer on the Engineering Data Portal project at Broadcom INC. I've been tasked to develop this powerful data analysis tool for Contract Manufacturers (CM) in the semiconductor manufacturing domain. by Leveraging the technical skill i have successfully implemented new features , optimized performance and addressing critical issues to ensure optimal application performance and user satisfaction.",
       "isInternal": true
     },
     {
@@ -923,6 +927,51 @@
       "status": "Finished",
       "url": "",
       "myRole": "Student",
+      "roleDescription": "",
+      "isInternal": true
+    },
+    {
+      "isActive": true,
+      "order": 19,
+      "name": "ISS Shipment Status",
+      "startDate": "Feb-2016",
+      "endDate": "June-2016",
+      "description": "This is test project 19 description.",
+      "skillsUsed": ["Java", "HTML", "CSS", "Javascript", "t-SQL"],
+      "associationId": 12,
+      "status": "Finished",
+      "url": "",
+      "myRole": "Senior Engineer",
+      "roleDescription": "",
+      "isInternal": true
+    },
+    {
+      "isActive": true,
+      "order": 20,
+      "name": "Scrap Wafer remover",
+      "startDate": "Feb-2016",
+      "endDate": "June-2016",
+      "description": "This is test project 20 description.",
+      "skillsUsed": ["Java", "HTML", "CSS", "Javascript", "t-SQL"],
+      "associationId": 12,
+      "status": "Finished",
+      "url": "",
+      "myRole": "Senior Engineer",
+      "roleDescription": "",
+      "isInternal": true
+    },
+    {
+      "isActive": true,
+      "order": 21,
+      "name": "EDT Dashboard",
+      "startDate": "Feb-2016",
+      "endDate": "June-2016",
+      "description": "This is test project 21 description.",
+      "skillsUsed": ["Java", "HTML", "CSS", "Javascript", "t-SQL"],
+      "associationId": 12,
+      "status": "Finished",
+      "url": "",
+      "myRole": "Senior Engineer",
       "roleDescription": "",
       "isInternal": true
     }
