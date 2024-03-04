@@ -692,7 +692,7 @@
       "status": "Legacy",
       "url": "http://isscmbap5pdpclchn.broadcom.net/EngineeringData/EngineeringDataHome.aspx",
       "myRole": "Senior Engineer",
-      "roleDescription": "As a Senior Engineer on the Engineering Data Portal project at Broadcom INC. I've been tasked to maintain this powerful data analysis tool for Contract Manufacturers (CM) in the semiconductor manufacturing domain. by Leveraging the technical skill i have successfully implemented new features , optimized performance and addressing critical issues to ensure optimal application performance and user satisfaction.",
+      "roleDescription": "Working As a Senior Engineer on the Engineering Data Portal project at Broadcom INC. I've been tasked to maintain this powerful data analysis tool for Contract Manufacturers (CM) in the semiconductor manufacturing domain. by Leveraging the technical skill i have successfully implemented new features , optimized performance and addressing critical issues to ensure optimal application performance and user satisfaction.",
       "isInternal": true
     },
     {
@@ -725,7 +725,7 @@
       "name": "Oven Slot Tracking",
       "startDate": "Aug-2022",
       "endDate": "Present",
-      "description": "This is test project 9 description.",
+      "description": "The Oven-Slot Tracking application is a tool designed to track the positioning of motherboards within an oven tray. This application offers detailed information of each slot of the tray which is crucial for effective motherboard tracking. Through detailed analysis of slot data, engineers can easily identify the status [Active Or Idle] of motherboard. This application offers visual representation of motherboard data to track and menage motherboards.",
       "skillsUsed": [
         "React JS",
         "Node JS",
@@ -738,7 +738,7 @@
       "status": "Finished",
       "url": "http://isscmfeap1pdven.broadcom.net/Dashboard",
       "myRole": "Senior Engineer",
-      "roleDescription": "",
+      "roleDescription": "Working As a Senior Engineer on the Oven Slot Tracking project at Broadcom INC. I've been tasked to develop this powerful tracking tool for engineers in the semiconductor manufacturing domain. by Leveraging the technical skill i have successfully implemented new features , optimized performance and addressing critical issues to ensure optimal application performance and user satisfaction.",
       "isInternal": true
     },
     {
