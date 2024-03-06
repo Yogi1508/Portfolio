@@ -479,13 +479,13 @@
       "isActive": true,
       "order": 1,
       "associationId": 3,
-      "companyName": "Broadcom",
+      "companyName": "Broadcom LTD.",
       "teamName": {
         "fullName": "Integrated Shopfloor Solutions",
         "abbreviatedName": "ISS"
       },
       "companyUrl": "https://www.broadcom.com/",
-      "companyLogo": "https://raw.githubusercontent.com/Yogi1508/Portfolio/ac8f4278a1567f0e898f6f8e53caa943fbb5854a/assets/ys/logoSvg/HTC.svg",
+      "companyLogo": "https://raw.githubusercontent.com/Yogi1508/Portfolio/master/assets/ys/logoSvg/Broadcom.jpg",
       "designation": "Senior Engineer",
       "startDate": "Aug-2022",
       "endDate": "Present",
