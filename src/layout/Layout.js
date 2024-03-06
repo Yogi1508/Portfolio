@@ -55,7 +55,7 @@ const Layout = (props) => {
           >
             <Menu className="flex lg:hidden cursor-pointer hover:text-primary transition-colors" />
           </button>
-          <div className=" mt-0 mr-2">{props.children}</div>
+          <div className=" mt-0 mr-2 ml-2">{props.children}</div>
         </main>
       </div>
       <Footer />
