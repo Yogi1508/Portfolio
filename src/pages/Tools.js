@@ -31,7 +31,7 @@ const Tools = ({ props }) => {
         }
       }
     } catch (err) {
-      console.log(err);
+      // console.log(err);
       setGroupedToolsArray(null);
     }
   }, [props]);

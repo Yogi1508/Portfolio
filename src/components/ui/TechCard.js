@@ -1,5 +1,5 @@
 const TechCard = ({ title, itemList }) => {
-  console.log(itemList);
+  // console.log(itemList);
   return (
     <>
       <div className="flex-1 flex flex-col gap-4 bg-cardPrimary p-4 rounded-md shadow-lg bg-blue-gray-900">
