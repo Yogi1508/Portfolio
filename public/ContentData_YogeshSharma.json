@@ -603,7 +603,7 @@
     {
       "isActive": true,
       "order": 2,
-      "name": "EnggDataPortal[Modernized]",
+      "name": "EnggDataPortal",
       "startDate": "Aug-2022",
       "endDate": "Present",
       "description": "The Engineering Data Portal, developed by Broadcom, is a powerful data analysis tool designed to provide detailed engineering test results obtained during the semiconductor manufacturing process to Contract Manufacturers (CM). This tool provides access to specific product results for designated sites and facilities, enabling them to analyze and optimize their manufacturing processes. By leveraging these insights, engineers can identify recurring failures, proactively implement countermeasures, and enhance productivity and product quality.",
@@ -1005,7 +1005,7 @@
     {
       "isActive": true,
       "order": 21,
-      "name": "Personal Accountant Web Portal",
+      "name": "Personal Accountant Portal",
       "startDate": "Feb-2016",
       "endDate": "June-2016",
       "description": "The Personal Accountant Web Portal is designed to help users to manage there personal fiances. It enables users to store there daily expenses and allow then the view there monthly expense report also enables them to segregate the monthly report based on expense category.",
