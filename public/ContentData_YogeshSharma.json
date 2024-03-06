@@ -435,16 +435,16 @@
       ]
     },
     {
-      "isActive": false,
+      "isActive": true,
       "order": 1,
       "associationId": 3,
-      "companyName": "HTC Global Services",
+      "companyName": "Broadcom LTD.",
       "teamName": {
         "fullName": "Integrated Shopfloor Solutions",
         "abbreviatedName": "ISS"
       },
-      "companyUrl": "https://www.htcinc.com/",
-      "companyLogo": "https://raw.githubusercontent.com/Yogi1508/Portfolio/ac8f4278a1567f0e898f6f8e53caa943fbb5854a/assets/ys/logoSvg/HTC.svg",
+      "companyUrl": "https://www.broadcom.com/",
+      "companyLogo": "https://raw.githubusercontent.com/Yogi1508/Portfolio/master/assets/ys/logoSvg/Broadcom.png",
       "designation": "Senior Engineer",
       "startDate": "Aug-2022",
       "endDate": "Present",
@@ -476,16 +476,16 @@
       ]
     },
     {
-      "isActive": true,
+      "isActive": false,
       "order": 1,
       "associationId": 3,
-      "companyName": "Broadcom LTD.",
+      "companyName": "HTC Global Services",
       "teamName": {
         "fullName": "Integrated Shopfloor Solutions",
         "abbreviatedName": "ISS"
       },
-      "companyUrl": "https://www.broadcom.com/",
-      "companyLogo": "https://raw.githubusercontent.com/Yogi1508/Portfolio/master/assets/ys/logoSvg/Broadcom.png",
+      "companyUrl": "https://www.htcinc.com/",
+      "companyLogo": "https://raw.githubusercontent.com/Yogi1508/Portfolio/ac8f4278a1567f0e898f6f8e53caa943fbb5854a/assets/ys/logoSvg/HTC.svg",
       "designation": "Senior Engineer",
       "startDate": "Aug-2022",
       "endDate": "Present",
