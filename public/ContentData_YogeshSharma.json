@@ -343,7 +343,7 @@
     },
     "Body": {
       "bodyText": [
-        "Hi, I am <strong>Yogesh Sharma </strong> a code enthusiast. I am a <strong>Full-Stack developer</strong> with <strong>6+</strong> year's of experience in developing web and windows applications using  C#, ASP.NET, MVC, t-SQL, React-JS, Typescript, JavaScript and Node-JS. I am passionate about learning new technologies and enhancing my skills in the IT domain."
+        "Hi, I am <strong>Yogesh Sharma </strong> a code enthusiast. I am a <strong>Full-Stack developer</strong> with <strong>6+</strong> years of experience in developing web and Windows applications using  C#, ASP.NET, MVC, t-SQL, React-JS, Typescript and JavaScript. I am passionate about learning new technologies and enhancing my skills in the IT domain."
       ],
       "pauseTime": 9000000,
       "deleteSpeed": 2,
