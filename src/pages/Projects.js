@@ -1,10 +1,5 @@
 import ProjectScrollAnimator from "../components/projects/ProjectScrollAnimator";
-import {
-  Card,
-  CardBody,
-  CardHeader,
-  Typography,
-} from "@material-tailwind/react";
+import { Card, CardBody } from "@material-tailwind/react";
 import { useEffect, useState } from "react";
 
 const Projects = ({ props }) => {

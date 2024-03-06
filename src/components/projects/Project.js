@@ -14,13 +14,13 @@ const Project = ({ projectInfo }) => {
   useEffect(() => {
     let associationObj = null;
     associationObj = contentData.Experiences.find(
-      (exp) => exp.associationId === projectInfo.associationId
+      (exp) => exp.associationId === projectInfo.associationId && exp.isActive
     );
     setAssociationType("Experience");
 
     if (associationObj === null && associationObj === undefined) {
       associationObj = contentData.Educations.find(
-        (edj) => edj.associationId === projectInfo.associationId
+        (edj) => edj.associationId === projectInfo.associationId && edj.isActive
       );
       setAssociationType("Education");
     }
