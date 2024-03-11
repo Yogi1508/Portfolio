@@ -43,7 +43,7 @@ const Project = ({ projectInfo }) => {
             shadow={false}
             className="mx-0 flex items-center text-primary ml-2 mr-2"
           >
-            <div className="display-flex flex-row justify-space-between w-full">
+            <div className="display-flex flex-row justify-space-between w-full ml-1">
               <div className="flex items-center justify-between">
                 <div className="font-bold items-start">
                   {!IsEmptyOrNull(projectInfo.url) ? (
@@ -58,7 +58,7 @@ const Project = ({ projectInfo }) => {
                   ) : (
                     <span aria-hidden="true">{projectInfo.name}</span>
                   )}{" "}
-                  [{projectInfo.status}]
+                  {projectInfo.status !== null && <>[{projectInfo.status}]</>}
                 </div>
                 <div className="text-sm font-normal text-gray-500 items-end">
                   <span aria-hidden="true">
