@@ -15,8 +15,6 @@ const About = ({ props }) => {
     }
   }, [props]);
 
-  console.log("body", body);
-
   return (
     <>
       {props && (
