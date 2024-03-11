@@ -124,8 +124,8 @@ const Experience = ({ experienceInfo }) => {
               <RrTooltip data={experienceInfo.rr} />
 
               <Button
-                variant="outlined"
-                className="flex items-center gap-2 text-white rounded-full"
+                variant="text"
+                className="flex items-center gap-2 text-white rounded-full bg-blue-gray-500"
                 // className="flex items-center gap-3 bg-transparent text-orange-400 rounded-full"
                 onClick={() => setIsShowProjects(!isShowProjects)}
               >
