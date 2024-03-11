@@ -103,8 +103,8 @@ const ContactMe = ({ props }) => {
                                                     <img
                                                       key={`img_${index}`}
                                                       className="h-6"
-                                                      alt="test"
-                                                      src="/assets/Logo/Naukri.svg"
+                                                      alt={pl.name}
+                                                      src={pl.logoSrc}
                                                     />
                                                   ) : (
                                                     LogoRenderer(pl)

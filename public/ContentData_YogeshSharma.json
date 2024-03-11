@@ -643,7 +643,7 @@
         "t-SQL"
       ],
       "associationId": 3,
-      "status": "Finished",
+      "status": null,
       "url": "http://isscmfeap1pdven.broadcom.net/Dashboard",
       "myRole": "Senior Engineer",
       "roleDescription": "Working As a Senior Engineer on the Oven Slot Tracking project at Broadcom INC. I've been tasked to develop this powerful tracking tool for engineers in the semiconductor manufacturing domain. by Leveraging the technical skill i have successfully implemented new features , optimized performance and addressing critical issues to ensure optimal application performance and user satisfaction.",
@@ -666,7 +666,7 @@
         "Javascript"
       ],
       "associationId": 3,
-      "status": "Finished",
+      "status": null,
       "url": "",
       "myRole": "Senior Engineer",
       "roleDescription": "Working As a Senior Engineer on the Shipment Data Extractor project at Broadcom INC. I've been tasked to develop this data consolidation tool for users in the semiconductor manufacturing domain. by Leveraging the technical skill i have successfully implemented new features , optimized performance and addressing critical issues to ensure optimal application performance and user satisfaction.",
@@ -692,7 +692,7 @@
         "t-SQL"
       ],
       "associationId": 3,
-      "status": "Finished",
+      "status": null,
       "url": "",
       "myRole": "Senior Engineer",
       "roleDescription": "Working As a Senior Engineer on the Mellanox Dashboard project at Broadcom INC. I've been tasked to develop this Mellanox Dashboard tool for users in the semiconductor manufacturing domain. by Leveraging the technical skill i have successfully implemented new features , optimized performance and addressing critical issues to ensure optimal application performance and user satisfaction.",
@@ -714,7 +714,7 @@
         "t-SQL"
       ],
       "associationId": 3,
-      "status": "Finished",
+      "status": null,
       "url": "",
       "myRole": "Senior Engineer",
       "roleDescription": "Working As a Senior Engineer on the DataPack Extractor project at Broadcom INC. I've been tasked to develop this data extractor tool for users in the semiconductor manufacturing domain. by Leveraging the technical skill i have successfully implemented new features , optimized performance and addressing critical issues to ensure optimal application performance and user satisfaction.",
@@ -739,7 +739,7 @@
         "Javascript"
       ],
       "associationId": 3,
-      "status": "Finished",
+      "status": null,
       "url": "http://wpdvissfabap:83/IssDefectTracking/Reports ",
       "myRole": "Senior Engineer",
       "roleDescription": "Working As a Senior Engineer on the Defect Tracking project at Broadcom INC. I've been tasked to Maintain this Defect Tracking tool for engineers in the semiconductor manufacturing domain. by Leveraging the technical skill i have successfully implemented new features , optimized performance and addressing critical issues to ensure optimal application performance and user satisfaction.",
@@ -754,7 +754,7 @@
       "description": "The Die Tracer application is a backend tool designed to monitor the die of wafers and identify any discrepancies compared to the ASM Data. Utilizing a Flask API powered by a Python model, it employs Optical Character Recognition (OCR) to extract the die ID from die images. Then it cross-references this die ID with the ASM database entries. In case of any mismatches, engineers are notified via email, including the mismatched die image and other die-related information. additionally, the application consolidates wafer die information, simplifying the tracking of failed, mismatched, and OK dies.",
       "skillsUsed": ["ASP.NET", "C#", "t-SQL", "Python"],
       "associationId": 3,
-      "status": "Finished",
+      "status": null,
       "url": "",
       "myRole": "Senior Engineer",
       "roleDescription": "Working As a Senior Engineer on the Die Tracer project at Broadcom INC. I've been tasked to Maintain this Die Tracer tool for engineers in the semiconductor manufacturing domain. by Leveraging the technical skill i have successfully implemented new features , optimized performance and addressing critical issues to ensure optimal application performance and user satisfaction.",
@@ -780,7 +780,7 @@
         "t-SQL"
       ],
       "associationId": 3,
-      "status": "Finished",
+      "status": null,
       "url": "",
       "myRole": "Senior Engineer",
       "roleDescription": "Working As a Senior Engineer on the ISS Shipment Status project at Broadcom INC. I've been tasked to develop this ISS Shipment Status web application for users in the semiconductor manufacturing domain. by Leveraging the technical skill i have successfully implemented new features , optimized performance and addressing critical issues to ensure optimal application performance and user satisfaction.",
@@ -834,7 +834,7 @@
       "description": "The Scrap Wafer Remover tool provide functionality for users to eliminate scrap wafers part from wafer images. Users can select the coordinates of the scrap wafer part from wafer images and then specify which parts of the scrap wafer to remove from the wafer image.",
       "skillsUsed": ["ASP.NET", "C#"],
       "associationId": 3,
-      "status": "Finished",
+      "status": null,
       "url": "",
       "myRole": "Senior Engineer",
       "roleDescription": "Working As a Senior Engineer on the Scrap Wafer remover project at Broadcom INC. I've been tasked to develop this Scrap Wafer remover tool for users in the semiconductor manufacturing domain. by Leveraging the technical skill i have successfully implemented new features , optimized performance and addressing critical issues to ensure optimal application performance and user satisfaction.",
@@ -849,7 +849,7 @@
       "description": "The XML Generator application is a handy tool that converts requested SQL data into the required XML format. It then transfers this XML data to the Oracle System for further processing.",
       "skillsUsed": ["ASP.NET Console", "C#", "t-SQL"],
       "associationId": 3,
-      "status": "Finished",
+      "status": null,
       "url": "",
       "myRole": "Senior Engineer",
       "roleDescription": "Working As a Senior Engineer on the XML Generator project at Broadcom INC. I've been tasked to maintain this ETL tool for users in the semiconductor manufacturing domain. by Leveraging the technical skill i have successfully implemented new features , optimized performance and addressing critical issues to ensure optimal application performance and user satisfaction.",
@@ -864,7 +864,7 @@
       "description": "The SIPM application is a tool that retrieves compressed files from FTP/SFTP servers. It then extracts the data from these files and transfers it to a specified location for additional processing. Additionally, it sends out email reports for each file transfer, ensuring users are kept informed of the file transfer.",
       "skillsUsed": ["ASP.NET Console", "C#", "t-SQL"],
       "associationId": 3,
-      "status": "Finished",
+      "status": null,
       "url": "",
       "myRole": "Senior Engineer",
       "roleDescription": "Working As a Senior Engineer on the SIPM project at Broadcom INC. I've been tasked to develop this file transfer tool for users in the semiconductor manufacturing domain. by Leveraging the technical skill i have successfully implemented new features , optimized performance and addressing critical issues to ensure optimal application performance and user satisfaction.",
@@ -879,7 +879,7 @@
       "description": "The Wafer Quality File Processor is a backend tool designed to seamlessly load wafer test result data into the database. This enables users to leverage the loaded data for their analysis, contributing to an enhanced overall product quality.",
       "skillsUsed": ["ASP.NET Console", "C#", "t-SQL"],
       "associationId": 3,
-      "status": "Finished",
+      "status": null,
       "url": "",
       "myRole": "Senior Engineer",
       "roleDescription": "Working As a Senior Engineer on the Wafer Quality File Processor project at Broadcom INC. I've been tasked to Maintain this WQ File Processor tool for engineers in the semiconductor manufacturing domain. by Leveraging the technical skill i have successfully implemented new features , optimized performance and addressing critical issues to ensure optimal application performance and user satisfaction.",
@@ -904,7 +904,7 @@
         "ASP.NET"
       ],
       "associationId": 2,
-      "status": "Finished",
+      "status": null,
       "url": "https://partsurfer.hpe.com/",
       "myRole": "IT Developer/Engineer II",
       "roleDescription": " IT Developer/Engineer 2 with Hewlett Packard Enterprise GlobalSoft Private Limited, contributing to the development and enhancement of the PartSurfer web application. Adept at communication, problem-solving, and project management, with a focus on delivering high-quality solutions that meet business objectives",
@@ -927,7 +927,7 @@
         "jQuery"
       ],
       "associationId": 2,
-      "status": "Finished",
+      "status": null,
       "url": "https://ireturns.it.hpe.com/",
       "myRole": "IT Developer/Engineer II",
       "roleDescription": "IT Developer/Engineer 2 with Hewlett Packard Enterprise GlobalSoft Private Limited, contributing to the development and implementation of the Global iReturns disposition tool. Proficient in a wide range of technologies including C#, ASP.NET, T-SQL, HTML, CSS, JavaScript, and jQuery, with a focus on optimizing reverse logistics processes for returned parts and materials.",
@@ -950,7 +950,7 @@
         "Javascript"
       ],
       "associationId": 2,
-      "status": "Finished",
+      "status": null,
       "url": "https://easitoolx-ent.itcs.hpe.com/Welcome.asp",
       "myRole": "IT Developer/Engineer II",
       "roleDescription": "IT Developer/Engineer 2 with Hewlett Packard Enterprise GlobalSoft Private Limited, contributing to the development and maintenance of the Easitool web-based tool. Proficient in C#, ASP.NET, Classic ASP, T-SQL, HTML, CSS, and JavaScript, with a focus on delivering high-quality solutions that streamline workflow and enhance collaboration for global sales orders and part status management.",
@@ -975,7 +975,7 @@
         "jQuery"
       ],
       "associationId": 1,
-      "status": "Finished",
+      "status": null,
       "url": "https://public.cite-web.com/PublicINQ/default.asp",
       "myRole": "Application Development & Support Engineer 1",
       "roleDescription": "Dedicated Application Development & Support Engineer 1 with extensive experience in developing and maintaining enterprise-level applications. Proficient in client communication, issue resolution, and project coordination, with a focus on delivering high-quality solutions and ensuring client satisfaction",
@@ -998,7 +998,7 @@
         "t-SQL"
       ],
       "associationId": 11,
-      "status": "Finished",
+      "status": null,
       "url": "",
       "myRole": "Student",
       "roleDescription": "Worked as a individual contributor for the Resale project where i have developed many modules of this application also by Leveraging the technical skill i have successfully implemented new features , optimized performance and addressing critical issues to ensure optimal application performance.",
@@ -1021,7 +1021,7 @@
         "t-SQL"
       ],
       "associationId": 12,
-      "status": "Finished",
+      "status": null,
       "url": "",
       "myRole": "Student",
       "roleDescription": "Worked as a individual contributor for the Personal Accountant Web Portal  where i have developed many modules of this application also by Leveraging the technical skill i have successfully implemented new features , optimized performance and addressing critical issues to ensure optimal application performance.",
@@ -1077,11 +1077,11 @@
             "logoUrl": "https://www.linkedin.com/in/yogesh-sharma-96a981b5/?originalSubdomain=in"
           },
           {
-            "name": "Instagram",
+            "name": "X",
             "color": "#b5179e",
             "className": "",
-            "logoSrc": null,
-            "logoUrl": "https://www.linkedin.com/in/yogesh-sharma-96a981b5/?originalSubdomain=in"
+            "logoSrc": "https://raw.githubusercontent.com/Yogi1508/Portfolio/master/assets/ys/logoSvg/X.svg",
+            "logoUrl": "https://x.com/YogiTech007?t=rU1Y0b8B_Ykg8NMftlXTIA&s=08"
           }
         ]
       }
