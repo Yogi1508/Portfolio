@@ -43,6 +43,7 @@ const About = ({ props }) => {
                   autoStart: true,
                   loop: header.loop,
                   pauseFor: header.pauseTime,
+                  delay: body.typeDelay,
                   deleteSpeed: header.deleteSpeed,
                 }}
               />
@@ -55,6 +56,7 @@ const About = ({ props }) => {
                   strings: body.bodyText,
                   autoStart: true,
                   loop: body.loop,
+                  delay: body.typeDelay,
                   pauseFor: body.pauseTime,
                   deleteSpeed: body.deleteSpeed,
                 }}

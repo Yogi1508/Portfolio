@@ -339,6 +339,7 @@
       ],
       "pauseTime": 9500000,
       "deleteSpeed": 10,
+      "typeDelay": 10,
       "loop": false
     },
     "Body": {
@@ -347,6 +348,7 @@
       ],
       "pauseTime": 9000000,
       "deleteSpeed": 2,
+      "typeDelay": 10,
       "loop": false
     }
   },
@@ -764,7 +766,7 @@
       "name": "ISS Shipment Status",
       "startDate": "Dec-2023",
       "endDate": "Present",
-      "description": "The ISS Shipment Status Web application is developed to assist users in tracking component shipment information. It retrieves current shipment information from a consolidated shipment file and displays this data in the monitor, using the Airport font style. This allows the shipment department to stay updated on the total components shipped to customers with ease..",
+      "description": "The ISS Shipment Status Web application is developed to assist users in tracking component shipment information. It retrieves current shipment information from a consolidated shipment file and displays this data in the monitor, using the Airport font style. This allows the shipment department to stay updated on the total components shipped to customers with ease.",
       "skillsUsed": [
         "React JS",
         "TypeScript",
