@@ -1,9 +1,4 @@
-import {
-  Card,
-  CardHeader,
-  CardBody,
-  Typography,
-} from "@material-tailwind/react";
+import { Card, CardHeader, CardBody } from "@material-tailwind/react";
 import { useEffect } from "react";
 import { useState } from "react";
 import Typewriter from "typewriter-effect";
@@ -19,6 +14,8 @@ const About = ({ props }) => {
       if (props.Body !== null) setBody(props.Body);
     }
   }, [props]);
+
+  console.log("body", body);
 
   return (
     <>
